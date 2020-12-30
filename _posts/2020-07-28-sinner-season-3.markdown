@@ -66,3 +66,6 @@ The setting is in a small town with a woody suburb and cloudy days. That contrib
 There's a part with a flashback when Jamie and Nick were in college. Young Jamie and Nick are played by different actors who do not look that much as older characters. Eighteen years is a long time between two life moments, but actors are not even the same height!
 
 After watching The Sinner S03, there is a bittersweet feeling of victory and defeat at the same time. There is no excuse for the act of crime. With that said, when I see a man on the street, and I do not like him, his looks, his attitude, his manner of speaking, I’ll think about his life before making any judgments. It’s impossible to know is someone a victim of life, society, or another victim.
+
+
+Write to Verica Vujicic at verica.vujicic@yahoo.com

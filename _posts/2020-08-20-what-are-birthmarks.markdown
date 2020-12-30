@@ -148,3 +148,7 @@ A birthmark should be surgically removed if it’s affecting a person’s health
 ## How To Feel About All This
 
 In conclusion, one may say that most of the birthmarks are harmless and do not require any attention what so ever. Still, there’s nothing wrong knowing all about them, is there? Birthmarks are cute, and they make your baby even more unique.
+
+
+
+Write to Verica Vujicic at verica.vujicic@yahoo.com
