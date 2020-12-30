@@ -27,6 +27,9 @@ layout: default
       <li>
           <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
      
+          <!-- {% if forloop.index == 1 or forloop.index == 2 %}
+          {% endif %} -->
+
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
