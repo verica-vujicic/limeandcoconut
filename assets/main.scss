@@ -3,6 +3,8 @@
 
 @import "minima";
 
+$base-font-family: 'Helvetica', 'Arial', Sans-Serif;
+
 // **************
 // FEATURED POST
 // **************
@@ -24,6 +26,7 @@
   }
 
   .post-link {
+    font-size: 27px;
     font-weight: bold;
     color: white;
   }
@@ -65,15 +68,32 @@
   float: left;
   margin-bottom: calc(#{$spacing-unit} / 2);
 
-  .post-thumbnail{
+  .thumbnail-wrap{
     float:left; 
     max-width: 40%; 
     padding-right: 15px;
+    position: relative;
+
+    .post-thumbnail{
+      width: 100%;
+    }
+    .category{
+      position: absolute;
+      top: 15px;
+      left: 0;
+      font-size: 11px;
+      padding: 5px 10px;
+      background: white;
+      opacity: 0.8;
+      border-top-right-radius: 4px;
+      border-bottom-right-radius: 4px;
+    }
   }
-  
+
   .post-link {
     font-weight: bold;
     line-height: 1.2;
+    margin-bottom: $spacing-unit;
   }
 
   .post-excerpt{
@@ -84,8 +104,11 @@
   }
 
   @include media-query($on-palm){
-    .post-thumbnail{
+    .thumbnail-wrap{
       max-width: 30% !important;
+      .category{
+        display: none;
+      }
     }
     .post-link {
       font-size: 18px;
@@ -100,11 +123,23 @@
 }
 
 // **************
-// CAPTION
+// GLOBAL
 // **************
 figcaption {
   color: #828282;
 }
+
+.post-content{
+  p{
+    margin-bottom: $spacing-unit;
+  }
+
+  color: #424242;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
 
 // **************
 // FOOTER

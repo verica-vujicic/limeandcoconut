@@ -30,20 +30,23 @@ layout: default
             <div class="featured-post">
               <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
               <div class="content">
-                <div class="category">{{ post.categories | join: " "  }}</div>
+                <div class="category">{{ post.categories | join: " " }}</div>
                 <h3>
                   <a class="post-link" href="{{ post.url | relative_url }}">
                     {{ post.title | escape }}
                   </a>
                 </h3>
-                <span class="post-meta">By {{ site.author }} &middot; {{ post.date | date: date_format }}</span>
+                <span class="post-meta">By {{ post.author }} • {{ post.date | date: date_format }}</span>
               </div>
             </div>
           {% else %}
             <!-- Regular post layout -->
             <div class="regular-post">
-              <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
+              <div class="thumbnail-wrap">
+                <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
+                <div class="category"> {{ post.categories | join: " " }} </div>
+              </div>
+              <span class="post-meta">By {{ post.author }} • {{ post.date | date: date_format }}</span>
               <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">
                   {{ post.title | escape }}

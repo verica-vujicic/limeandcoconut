@@ -2,6 +2,7 @@
 layout: post
 title:  "What Are Birthmarks & How Long Do They Last?"
 date:   2020-08-20 12:26:51 +0100
+author: "Verica Vujicic"
 categories: Health & Wellness
 thumbnail: "/assets/images/littlebaby.jpg"
 excerpt: "Although most types of birthmarks are harmless and do not require any treatment, some types may cause health problems later on in a baby’s life."
