@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Review on TV Series: The Sinner Season 3"
-date:   2020-12-30 12:26:51 +0100
-categories: jekyll update
+date:   2020-06-30 12:26:51 +0100
+categories: Movie & TV Shows
 ---
+![Source: USA Network](/assets/Jamie\ and\ The\ Sun.jpg)
+
 Season 3 of The Sinner is something of a perfect TV show to watch if you are in the quarantine or you spend way too much time at home. It debates about the meaning of life, and I know what you think right now. On no, another one? Our sinner here is more similar to any of us then any other confused-by-life-character I’ve seen or read. It is because the sinner is living a life very similar to mine, or yours. Did you ever feel like you had enough of your vacation or weekend, and you want that Monday to come (but oh mighty Lord, Mondays we hate) and to get back to work and to be yourself again? You go to work every day, go home to your partner, have a baby someday, cause that’s what you're supposed to do to have a good life. Eventually, you will die. So the sinner is aksing himself: why am I going to work every day? Why are me and my wife together? What will I tell my son when he asks: what’s the point of living if I'll most certainly die someday? And what if I jump off my comfortable, insured, irrelevant little life and do something that makes my day different? Now, imagine if that kind of psycho is under investigation by a detective whose demons are older and more disturbing than his.
 
 The Sinner is a crime, drama, mystery TV Series provided by USA Network, with a current IMDb rating of 8.0. It is a set of stories of ordinary people who turn out to murderers. If you haven’t come across The Sinner before, you still may watch S03 first. Each season of The Sinner is a separate story with one character - detective Ambrose - present in all seasons. The Sinner TV Series has three seasons so far, with eight episodes each, and the fourth will be released in 2021. Keep in mind that S03 is the first recommended on Netflix. After you finish S03, it’ll pass you to S02 and then to S01.
