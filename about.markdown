@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![/](/assets/coconutonsand.jpg)
+![/](/assets/images/coconutonsand.jpg)
 
 
 ## Welcome to the ultimate place for fun and relaxation!
