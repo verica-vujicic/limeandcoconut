@@ -3,8 +3,10 @@ layout: post
 title:  "Review on TV Series: The Sinner Season 3"
 date:   2020-06-30 12:26:51 +0100
 categories: Movie & TV Shows
+thumbnail: "/assets/images/JamieandTheSun.jpg"
+excerpt: "Season 3 of The Sinner is something of a perfect TV show to watch if you are in the quarantine or you spend way too much time at home.It debates about the meaning of life, and I know what you think right now. On no, another one?"
 ---
-![Source: USA Network](/assets/JamieandTheSun.jpg)
+![Source: USA Network](/assets/images/JamieandTheSun.jpg)
 
 Season 3 of The Sinner is something of a perfect TV show to watch if you are in the quarantine or you spend way too much time at home. It debates about the meaning of life, and I know what you think right now. On no, another one? Our sinner here is more similar to any of us then any other confused-by-life-character I’ve seen or read. It is because the sinner is living a life very similar to mine, or yours. Did you ever feel like you had enough of your vacation or weekend, and you want that Monday to come (but oh mighty Lord, Mondays we hate) and to get back to work and to be yourself again? You go to work every day, go home to your partner, have a baby someday, cause that’s what you're supposed to do to have a good life. Eventually, you will die. So the sinner is aksing himself: why am I going to work every day? Why are me and my wife together? What will I tell my son when he asks: what’s the point of living if I'll most certainly die someday? And what if I jump off my comfortable, insured, irrelevant little life and do something that makes my day different? Now, imagine if that kind of psycho is under investigation by a detective whose demons are older and more disturbing than his.
 

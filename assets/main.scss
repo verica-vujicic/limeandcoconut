@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+.post-thumbnail{
+  float:left; 
+  max-width: 30%; 
+  padding-right: 15px;
+}
+
+.post-excerpt{
+  font-size: 13px; 
+  color: #828282; 
+  margin-top: -10px;
+  display: block;
+}
+
+@media (max-width: calc(#{$content-width} - (#{$spacing-unit} * 2) + 60px)) {
+  .post-thumbnail{
+      width: 100% !important;
+      padding-right: 0;
+      max-width: unset;
+  }
+}
