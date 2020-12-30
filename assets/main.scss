@@ -140,6 +140,23 @@ figcaption {
   line-height: 1.6;
 }
 
+.site-title, .site-title:visited{
+  color: #75bd4b;
+}
+
+a {
+  color: #75bd4b;
+
+  &:visited{
+    color: #599537;
+    &:hover{
+      color: #75bd4b;
+    }
+  }
+  &:hover{
+    color: #88d453;
+  }
+}
 
 // **************
 // FOOTER
