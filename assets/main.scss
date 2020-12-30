@@ -60,6 +60,11 @@
 // REGULAR POST
 // **************
 .regular-post{
+  width: 100%;
+  clear: both;
+  float: left;
+  margin-bottom: calc(#{$spacing-unit} / 2);
+
   .post-thumbnail{
     float:left; 
     max-width: 40%; 
