@@ -27,3 +27,9 @@
 figcaption {
   color: #828282;
 }
+
+.footer-col-1,
+.footer-col-2 {
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
