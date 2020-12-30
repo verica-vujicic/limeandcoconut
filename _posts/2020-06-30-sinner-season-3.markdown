@@ -11,7 +11,7 @@ Season 3 of The Sinner is something of a perfect TV show to watch if you are in 
 Season 3 of The Sinner is something of a perfect TV show to watch if you are in the quarantine or you spend way too much time at home. It debates about the meaning of life, and I know what you think right now. On no, another one? Our sinner here is more similar to any of us then you might think. It is because the sinner is living a life very similar to mine, or yours. 
 
 
-![Source: USA Network](/assets/JamieandTheSun.jpg)
+![Source: USA Network](/assets/images/JamieandTheSun.jpg)
 
 
 Did you ever feel like you had enough of your vacation or weekend, and you want that Monday to come (but oh mighty Lord, Mondays we hate) and to get back to work and to be yourself again? You go to work every day, go home to your partner, have a baby someday, cause that’s what you're supposed to do to have a good life. Eventually, you will die. So the sinner is aksing himself: why am I going to work every day? Why are me and my wife together? What will I tell my son when he asks: what’s the point of living if I'll most certainly die someday? And what if I jump off my comfortable, insured, irrelevant little life and do something that makes my day different? Now, imagine if that kind of psycho is under investigation by a detective whose demons are older and more disturbing than his.
@@ -23,7 +23,7 @@ After 18 years, Nick Haas visits his old friend from college Jamie in Dorchester
 Jessica Hecht, in the role of Sonya Barzel, is an artist and owner of the property where the accident happened. As expected for artistic souls, Sonya gives the impression that there is more to her than meets the eye. Throughout the whole season, there’s a feeling that she may know something relevant for the investigation or may affect it. Sometimes, it just seems like she has a complicated personality herself.
 
 
-![Source: USA Network](/assets/SonyaPaints.jpg)
+![Source: USA Network](/assets/images/SonyaPaints.jpg)
 
 
 Bill Pulman (who will always be Mr. President from 1996 Independence Day) is Harry Ambrose detective in charge of an investigation on the car accident. After examining the crashed vehicle, Ambrose finds several details to be suspicious. He lives in his house in the woods all by himself. His daughter and grandson visit sometimes. Harry is one of those older and experienced detectives. He has his routines and doesn’t like to share work with anybody.
@@ -39,7 +39,7 @@ Nick Haas is Jamie’s friend, played by Chris Messina. According to his college
 Übermensch is a philosophy concept postulated by a german philosopher Friedrich Nietzsche. The initial translation from german - Superman - was wrong in so many ways. Übermesch is not about super-man and certainly not about comic book character as a lot of people would represent it. A more appropriate translation would be above human as a strength beyond humanity.
 
 
-![Source: USA Network](/assets/Ambrose&Sonya.jpg)
+![Source: USA Network](/assets/images/Ambrose&Sonya.jpg)
 
 
 Nietzsche wrote a book Thus Spoke Zarathustra. The main character, Zarathustra, explains that the age of believing in God is over. People don’t respect God’s values anymore, as the nihilism was born. The idea of übermensch offers a new set of values to fight against nihilism. Those values may vary, but must be inspired by the love and everything good and creative in life. A man should strive to become an Übermensch, to create his own set of values that would separate his from ordinary folks. Unfortunately, Hitler and the Nazi regimen misused this concept to explain the power and superiority of the Germanic race. They even created a term for the rest of the human race - Untermenschen - people so not worthy they should be enslaved. Before he died, Nietzsche stated that he is a Polish, and not German. He said: “I am a pure-blooded Polish nobleman, without a single drop of bad blood, certainly not German blood.”
@@ -51,7 +51,7 @@ Besides an IMDb genre classification, I would add a psychological thriller as th
 The setting is in a small town with a woody suburb and cloudy days. That contributes to the overall mood. Sounds did not quite match the expectations since there is no soundtrack, rather intense music throughout the whole show. The intro sequence is an abstract animation, and it looks like the Rorschach test. However, this type of intros is part of a bunch of other TV shows (such as Mindhunter, Outsider), and it does not even have a soundtrack. On the other hand, frame compositions put character sideway, yet dramatizing what is going inside a person's head. Blurring frames also increases the feeling of what is happening inside of the character. 
 
 
-![Source: USA Network](/assets/JamieBlurred.jpg)
+![Source: USA Network](/assets/images/JamieBlurred.jpg)
 Source: USA Network
 
 
