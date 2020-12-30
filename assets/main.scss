@@ -3,31 +3,107 @@
 
 @import "minima";
 
-.post-thumbnail{
-  float:left; 
-  max-width: 30%; 
-  padding-right: 15px;
-}
+// **************
+// FEATURED POST
+// **************
+.featured-post{
+  position: relative;
+  color: white;
 
-.post-excerpt{
-  font-size: 13px; 
-  color: #828282; 
-  margin-top: -10px;
-  display: block;
-}
-
-@media (max-width: calc(#{$content-width} - (#{$spacing-unit} * 2) + 60px)) {
   .post-thumbnail{
-      width: 100% !important;
-      padding-right: 0;
-      max-width: unset;
+    width: 100%;
+    filter: brightness(50%);
+  }
+
+  .content{
+    position: absolute;
+    bottom: -webkit-calc(#{$spacing-unit});
+    bottom:         calc(#{$spacing-unit});
+    left: -webkit-calc(#{$spacing-unit});
+    left:         calc(#{$spacing-unit});
+  }
+
+  .post-link {
+    font-weight: bold;
+    color: white;
+  }
+
+  .post-meta{
+    color: white;
+    opacity: 0.7;
+  }
+
+  @include media-query($on-palm){
+    .content{
+
+      bottom: -webkit-calc(#{$spacing-unit} / 2);
+      bottom:         calc(#{$spacing-unit} / 2);
+      left: -webkit-calc(#{$spacing-unit} / 2);
+      left:         calc(#{$spacing-unit} / 2);
+    }
+    h3{
+      margin-bottom: 5px;
+    }
+    .category{
+      font-size: 13px;
+    }
+    .post-link {
+      font-size: 18px;
+    }
+    .post-meta{
+      font-size: 12px;
+    }
   }
 }
 
+// **************
+// REGULAR POST
+// **************
+.regular-post{
+  .post-thumbnail{
+    float:left; 
+    max-width: 40%; 
+    padding-right: 15px;
+  }
+  
+  .post-link {
+    font-weight: bold;
+    line-height: 1.2;
+  }
+
+  .post-excerpt{
+    font-size: 13px; 
+    color: #828282; 
+    margin-top: -10px;
+    display: block;
+  }
+
+  @include media-query($on-palm){
+    .post-thumbnail{
+      max-width: 30% !important;
+    }
+    .post-link {
+      font-size: 18px;
+    }
+    .post-excerpt{
+      display: none;
+    }
+    .post-meta{
+      font-size: 12px;
+    }
+  }
+}
+
+// **************
+// CAPTION
+// **************
 figcaption {
   color: #828282;
 }
 
+// **************
+// FOOTER
+// **************
 .footer-col-1 {
   width: -webkit-calc(70% - (#{$spacing-unit} / 2 ));
   width:         calc(70% - (#{$spacing-unit} / 2));

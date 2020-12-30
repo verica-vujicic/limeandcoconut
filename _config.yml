@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lime & Coconut
+author: Verica Vujicic
 google_analytics: UA-XXXXXXXX-X
 show_excerpts: true
 subscribe_msg: To subscribe send "Limes and Coconuts please!" at
