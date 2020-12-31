@@ -40,10 +40,8 @@ $primary-darker: #599537;
     opacity: 0.7;
   }
 
-
   @media screen and (max-width: $on-palm){
     .content{
-
       bottom: -webkit-calc(#{$spacing-unit} / 2);
       bottom:         calc(#{$spacing-unit} / 2);
       left: -webkit-calc(#{$spacing-unit} / 2);
@@ -56,7 +54,7 @@ $primary-darker: #599537;
       font-size: 13px;
     }
     .post-link {
-      font-size: 18px;
+      font-size: 20px;
     }
     .post-meta{
       font-size: 12px;
@@ -69,6 +67,7 @@ $primary-darker: #599537;
 // **************
 .regular-post{
   width: 100%;
+  display: flex;
   clear: both;
   float: left;
   margin-bottom: calc(#{$spacing-unit} / 2);
@@ -89,40 +88,47 @@ $primary-darker: #599537;
       font-size: 11px;
       padding: 5px 10px;
       background: white;
+      color: #444;
+      font-weight: bold;
       opacity: 0.8;
       border-top-right-radius: 4px;
       border-bottom-right-radius: 4px;
     }
   }
 
-  .post-link {
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: $spacing-unit;
-  }
+  .details-wrap{
+    float: left;
 
-  .post-excerpt{
-    font-size: 13px; 
-    color: #828282; 
-    margin-top: -10px;
-    display: block;
+    .post-link {
+      font-weight: bold;
+      line-height: 1.2;
+      margin-bottom: $spacing-unit;
+    }
+  
+    .post-excerpt{
+      font-size: 13px; 
+      color: #828282; 
+      margin-top: -10px;
+      display: block;
+    }
   }
 
   @media screen and (max-width: $on-palm){
     .thumbnail-wrap{
-      max-width: 30% !important;
       .category{
         display: none;
       }
     }
-    .post-link {
-      font-size: 18px;
-    }
-    .post-excerpt{
-      display: none;
-    }
-    .post-meta{
-      font-size: 12px;
+    .details-wrap{
+      .post-link {
+        font-size: 18px;
+      }
+      .post-excerpt{
+        display: none;
+      }
+      .post-meta{
+        font-size: 12px;
+      }
     }
   }
 }
@@ -130,6 +136,10 @@ $primary-darker: #599537;
 // **************
 // GLOBAL
 // **************
+.post-header {
+  margin-bottom: 60px;
+}
+
 figcaption {
   color: #828282;
 }
@@ -149,7 +159,8 @@ drop-cap{
 @media screen and (min-width: $on-laptop){
   .aside-quote {
     float: right;
-    margin-left: 5%;
+    padding-left: 50px;
+    margin: 50px 0;
     width: 45%;
   }
 }
@@ -157,46 +168,30 @@ drop-cap{
     q {
       font-family: "Heroic",Arial Narrow,Helvetica,sans-serif;
       display: block;
-      padding-top: 1rem;
-      padding-right: 1.25rem;
+      padding-top: 20px;
+      padding-right: 20px;
       position: relative;
-      line-height: 1;
+      line-height: 1.1;
       font-style: italic;
       font-weight: 600;
       letter-spacing: .02em;
       text-transform: uppercase;
       font-size: 30px;
       color: $primary;
-      margin-bottom: 1.2rem;
-
+          
       &::before{
-        background-color: #599537;
         content: "";
-        height: 8px;
-        position: absolute;
-        right: 24px;
-        top: 4px;
-        -webkit-transform: rotate(-120deg);
-        transform: rotate(-120deg);
-        -webkit-transform-origin: top right;
-        transform-origin: top right;
-        width: 35px;
-        z-index: 1;
-        border-top-left-radius: 50px;
-        border-bottom-left-radius: 50px;
       }
-
       &::after{
         background: #599537;
         content: "";
-        height: 7px;
+        height: 10px;
         position: absolute;
         right: 17px;
         top: 0px;
         left: 0;
         z-index: 1;
-        border-top-left-radius: 50px;
-        border-bottom-left-radius: 50px;
+        border-radius: 50px;
       }
     }
 }
