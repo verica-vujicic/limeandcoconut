@@ -4,8 +4,8 @@ title:  "TV Show Review: The Sinner Season 3"
 date:   2020-07-28 12:26:51 +0100
 author: "Verica Vujicic"
 categories: Movies & TV Shows
-thumbnail: "/assets/images/JamieandTheSun.jpg"
-hero: ""
+thumbnail: "/assets/images/TheSinner/JamieandTheSun.jpg"
+hero: "/assets/images/TheSinner/AmbrosePink.jpg"
 excerpt: "Season 3 of The Sinner is something of a perfect TV show to watch if you are in the quarantine or you spend way too much time at home."
 ---
 
@@ -15,7 +15,7 @@ excerpt: "Season 3 of The Sinner is something of a perfect TV show to watch if y
 Season 3 of The Sinner is something of a perfect TV show to watch if you are in the quarantine or you spend way too much time at home. It debates about the meaning of life, and I know what you think right now. On no, another one? Our sinner here is more similar to any of us then you might think. It is because the sinner is living a life very similar to mine, or yours. 
 
 <figure>
-    <img src='/assets/images/JamieandTheSun.jpg' alt='missing' />
+    <img src='/assets/images/TheSinner/JamieandTheSun.jpg' alt='missing' />
     <figcaption>Source: USA Network</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ After 18 years, Nick Haas visits his old friend from college Jamie in Dorchester
 Jessica Hecht, in the role of Sonya Barzel, is an artist and owner of the property where the accident happened. As expected for artistic souls, Sonya gives the impression that there is more to her than meets the eye. Throughout the whole season, there’s a feeling that she may know something relevant for the investigation or may affect it. Sometimes, it just seems like she has a complicated personality herself.
 
 <figure>
-    <img src='/assets/images/SonyaPaints.jpg' alt='missing' />
+    <img src='/assets/images/TheSinner/SonyaPaints.jpg' alt='missing' />
     <figcaption>Source: USA Network</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Nick Haas is Jamie’s friend, played by Chris Messina. According to his college
 
 
 <figure>
-    <img src='/assets/images/Ambrose&Sonya.jpg' alt='missing' />
+    <img src='/assets/images/TheSinner/Ambrose&Sonya.jpg' alt='missing' />
     <figcaption>Source: USA Network</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ The setting is in a small town with a woody suburb and cloudy days. That contrib
 
 
 <figure>
-    <img src='/assets/images/JamieBlurred.jpg' alt='missing' />
+    <img src='/assets/images/TheSinner/JamieBlurred.jpg' alt='missing' />
     <figcaption>Source: USA Network</figcaption>
 </figure>
 

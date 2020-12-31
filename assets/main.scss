@@ -2,12 +2,14 @@
 ---
 
 @import "minima";
-
-$base-font-family: 'Helvetica', 'Arial', Sans-Serif;
+ 
 $primary: #75bd4b;
 $primary-lighter: #88d453;
 $primary-darker: #599537;
 
+body{
+  font-family: 'Helvetica', 'Arial', Sans-Serif !important;
+}
 
 // **************
 // FEATURED POST
@@ -136,8 +138,20 @@ $primary-darker: #599537;
 // **************
 // GLOBAL
 // **************
-.post-header {
-  margin-bottom: 60px;
+.post{
+  .post-header {
+    margin-bottom: 60px;
+
+    .post-title{
+      font-weight: bold;
+    }
+
+    .post-excerpt{
+      color: #828282;
+      font-style: italic;
+      font-weight: 400;
+    }
+  }
 }
 
 figcaption {
@@ -160,40 +174,42 @@ drop-cap{
   .aside-quote {
     float: right;
     padding-left: 50px;
-    margin: 50px 0;
     width: 45%;
   }
 }
+
 .aside-quote {
-    q {
-      font-family: "Heroic",Arial Narrow,Helvetica,sans-serif;
-      display: block;
-      padding-top: 20px;
-      padding-right: 20px;
-      position: relative;
-      line-height: 1.1;
-      font-style: italic;
-      font-weight: 600;
-      letter-spacing: .02em;
-      text-transform: uppercase;
-      font-size: 30px;
-      color: $primary;
-          
-      &::before{
-        content: "";
-      }
-      &::after{
-        background: #599537;
-        content: "";
-        height: 10px;
-        position: absolute;
-        right: 17px;
-        top: 0px;
-        left: 0;
-        z-index: 1;
-        border-radius: 50px;
-      }
+  margin: 50px 0;
+
+  q {
+    font-family: "Heroic",Arial Narrow,Helvetica,sans-serif;
+    display: block;
+    padding-top: 20px;
+    padding-right: 20px;
+    position: relative;
+    line-height: 1.1;
+    font-style: italic;
+    font-weight: 600;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: $primary;
+        
+    &::before{
+      content: "";
     }
+    &::after{
+      background: #599537;
+      content: "";
+      height: 10px;
+      position: absolute;
+      right: 17px;
+      top: 0px;
+      left: 0;
+      z-index: 1;
+      border-radius: 50px;
+    }
+  }
 }
 
 .post-content{
