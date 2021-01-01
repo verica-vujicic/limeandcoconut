@@ -170,6 +170,18 @@ body{
   }
 }
 
+.page-hero {
+  position: relative;
+
+  .hero-credit {
+    position: absolute;
+    font-size: 9px;
+    bottom: 0;
+    left: 5px;
+    color: #fff;
+  }
+}
+
 .post{
   .post-header {
     margin-bottom: 60px;

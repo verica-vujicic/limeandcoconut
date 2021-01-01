@@ -2,7 +2,8 @@
 layout: page
 title: About
 header: "No matter how you mix it, the taste is bittersweet."
-hero: '/assets/images/coconutonsand.jpg'
+hero: "/assets/images/coconutonsand.jpg"
+hero-credit: "Unsplash"
 permalink: /about/
 ---
 
