@@ -172,6 +172,11 @@ body{
 
 .page-hero {
   position: relative;
+  width: 100%;
+
+  img {
+    width: 100%;
+  }
 
   .hero-credit {
     position: absolute;
@@ -277,7 +282,7 @@ drop-cap{
   .menu-icon > svg{
     fill: $primary-darker;
   }
-  
+
   @media screen and (max-width: $on-palm){
     .trigger{
       padding-top: 5px;
