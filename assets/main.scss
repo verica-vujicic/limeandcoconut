@@ -29,6 +29,10 @@ body{
     bottom:         calc(#{$spacing-unit});
     left: -webkit-calc(#{$spacing-unit});
     left:         calc(#{$spacing-unit});
+
+    a {
+      color: white !important;
+    }
   }
 
   .post-link {
@@ -105,6 +109,7 @@ body{
       font-weight: bold;
       line-height: 1.2;
       margin-bottom: $spacing-unit;
+      color: #111 !important;
     }
   
     .post-excerpt{
