@@ -32,6 +32,9 @@ instagram_username: vujicicverica
 goodreads_username: verica_vujicic
 
 header_pages:
+  - categories/tv.markdown
+  - categories/health.markdown
+  - categories/lifestyle.markdown
   - about.markdown
 
 # Categories:
