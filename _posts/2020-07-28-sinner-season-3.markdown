@@ -4,7 +4,7 @@ title:  "The Sinner Season 3 Review"
 date:   2020-07-28 12:26:51 +0100
 author: "Verica Vujicic"
 categories: TV
-thumbnail: "/assets/images/TheSinner/AmbrosePink.jpg"
+thumbnail: "/assets/images/TheSinner/JamieandTheSun.jpg"
 hero: "/assets/images/TheSinner/AmbrosePink.jpg"
 hero-credit: "USA Network"
 excerpt: "And how an ordinary man becomes a murderer"

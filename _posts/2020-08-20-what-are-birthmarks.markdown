@@ -4,7 +4,7 @@ title:  "What Are Birthmarks & How Long Do They Last?"
 date:   2020-08-20 12:26:51 +0100
 author: "Verica Vujicic"
 categories: Health
-thumbnail: "/assets/images/Birthmarks/teamfootball.jpg"
+thumbnail: "/assets/images/Birthmarks/coveredface.jpg"
 hero: "/assets/images/Birthmarks/teamfootball.jpg"
 hero-credit: "Piron Guillaume / Unsplash"
 excerpt: "Some of those are not as harmless as you might think"
