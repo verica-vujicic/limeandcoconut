@@ -4,15 +4,17 @@ title:  "What Are Birthmarks & How Long Do They Last?"
 date:   2020-08-20 12:26:51 +0100
 author: "Verica Vujicic"
 categories: Health
-thumbnail: "/assets/images/Birthmarks/littlebaby.jpg"
-excerpt: "Although most types of birthmarks are harmless and do not require any treatment, some types may cause health problems later on in a baby’s life."
+thumbnail: "/assets/images/Birthmarks/teamfootball.jpg"
+hero: "/assets/images/Birthmarks/teamfootball.jpg"
+hero-credit: "Piron Guillaume / Unsplash"
+excerpt: "Some of those are not as harmless as you might think"
 ---
 
 <drop-cap>M</drop-cap>y sister recently gave birth to a healthy and beautiful little girl called Sonya. Sonya has this small pinkish V-shaped marking on her forehead, right between her eyebrows. The doctors said it is a common birthmark found in infants, and it’s called an angel kiss. Is the angel kiss harmful or just another skin mark as cute as it looks? Although most types of birthmarks are harmless and do not require any treatment, some types may cause health problems later on in a baby’s life.
 
 <figure>
-    <img src='/assets/images/Birthmarks/littlebaby.jpg' alt='missing' />
-    <figcaption>Source: Unsplash</figcaption>
+    <img src='/assets/images/Birthmarks/coveredface.jpg' alt='missing' />
+    <figcaption>Source: Caleb Woods / Unsplash</figcaption>
 </figure>
 
 Baby’s skin is like a book. You can tell a great deal of information just from watching their skin changing colors. Color changing depends on the baby’s health and the environment. It shows a baby’s race and ethnic origin, age, temperature, or whether or not a baby is crying, grunting or straining. Most of the skin colors will disappear over time. Birthmarks may also come and go, but some may stick around for a long time, even a lifetime.
@@ -31,7 +33,12 @@ There is no reasonable explanation for the appearance of the birthmark. Some may
 
 ## Types Of Birthmarks
 
-There are two major types of birthmarks - vascular and congenital birthmarks. Keep in mind that the birthmark of any of the following types is darker on darker skin.
+There are two major types of birthmarks - **vascular** and **congenital** birthmarks. Keep in mind that the birthmark of any of the following types is darker on darker skin.
+
+<figure>
+    <img src='/assets/images/Birthmarks/fleckergirl.jpg' alt='missing' />
+    <figcaption>Source: Ben Hershey / Unsplash</figcaption>
+</figure>
 
 ## Vascular birthmarks - red, pink, purple
 
@@ -68,6 +75,10 @@ Stork bite refers to a birthmark on the back of the baby’s neck. According to 
 - May be associated with serious medical conditions
 - Usually require cosmetic attention (for smaller strains), or usage of a special type of laser (for bigger birthmarks)
 
+<figure>
+    <img src='/assets/images/Birthmarks/girlpinkpurple.jpg' alt='missing' />
+    <figcaption>Source: Pranav Kumar Jain / Unsplash</figcaption>
+</figure>
 
 ## Pigmented birthmarks - brown
 
@@ -102,6 +113,10 @@ Pigmented birthmarks occur as a result of the overgrowth of the pigment skin cel
 
 Most birthmarks are harmless and disappear over time. Long-term birthmarks may cause certain esthetic discomfort, so the people reach out for cosmetic procedures rather than medical help later in life. Nevertheless, some birthmarks such as port-wine stains may stay for a lifetime and cause health issues, if not treated. In the case of congenital moles, a birthmark may change over time and trigger a cancerous process on the skin. Certain types are signs of serious medical conditions. 
 
+<div class="aside-quote"><q>
+    Some birthmarks such as port-wine stains may stay for a lifetime and cause health issues, if not treated
+</q></div>
+
 Some port-wine strains are associated with mostly genetic syndromes: 
 
 - Sturge-Weber syndrome - affects the eyes and brain
@@ -124,6 +139,11 @@ Unless there is a diagnosis of a medical condition, birthmarks do not require tr
 ## Treatment For Birthmarks
 
 Several different treatments are available today. The main goal of any treatment is to shrink birthmark or remove it. 
+
+<figure>
+    <img src='/assets/images/Birthmarks/simonraegirlinwhite.jpg' alt='missing' />
+    <figcaption>Source: Simon Rae / Unsplash</figcaption>
+</figure>
 
 ## Medications
 

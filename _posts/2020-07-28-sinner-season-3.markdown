@@ -4,7 +4,7 @@ title:  "The Sinner Season 3 Review"
 date:   2020-07-28 12:26:51 +0100
 author: "Verica Vujicic"
 categories: TV
-thumbnail: "/assets/images/TheSinner/JamieandTheSun.jpg"
+thumbnail: "/assets/images/TheSinner/AmbrosePink.jpg"
 hero: "/assets/images/TheSinner/AmbrosePink.jpg"
 hero-credit: "USA Network"
 excerpt: "And how an ordinary man becomes a murderer"
@@ -24,7 +24,7 @@ Did you ever feel like you had enough of your vacation or weekend, and you want 
 The sinner is aksing himself: why am I going to work every day? Why are me and my wife together? What will I tell my son when he asks: what’s the point of living if I'll most certainly die someday? And what if I jump off my comfortable, insured, irrelevant little life and do something that makes my day different, what then? Imagine if that kind of psycho is under investigation by a detective whose demons are older and more disturbing than his.
 
 <div class="aside-quote"><q>
-    Now, imagine if that kind of psycho is under investigation by a detective whose demons are older and more disturbing than his
+    Imagine if that kind of psycho is under investigation by a detective whose demons are older and more disturbing than his
 </q></div>
 
 The Sinner is a crime, drama, mystery TV Series provided by USA Network, with a current IMDb rating of 8.0. It is a set of stories of ordinary people who turn out to murderers. If you haven’t come across The Sinner before, you still may watch S03 first. Each season of The Sinner is a separate story with one character - detective Ambrose - present in all seasons. The Sinner TV Series has three seasons so far, with eight episodes each, and the fourth will be released in 2021.
