@@ -31,6 +31,12 @@ github_username: verica-vujicic
 instagram_username: vujicicverica
 goodreads_username: verica_vujicic
 
+# Categories:
+# - TV
+# - Movies
+# - Books
+# - Health
+
 # Build settings
 theme: minima
 plugins:
