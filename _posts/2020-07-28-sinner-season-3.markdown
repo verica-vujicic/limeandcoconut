@@ -3,7 +3,7 @@ layout: post
 title:  "TV Show Review: The Sinner Season 3"
 date:   2020-07-28 12:26:51 +0100
 author: "Verica Vujicic"
-categories: Movies & TV Shows
+categories: TV
 thumbnail: "/assets/images/TheSinner/JamieandTheSun.jpg"
 hero: "/assets/images/TheSinner/AmbrosePink.jpg"
 excerpt: "Season 3 of The Sinner is something of a perfect TV show to watch if you are in the quarantine or you spend way too much time at home."
