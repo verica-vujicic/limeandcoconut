@@ -27,18 +27,20 @@ layout: default
       <li>
           {% if forloop.first == true %}
             <!-- Featured post layout -->
-            <div class="featured-post">
-              <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
-              <div class="content">
-                <div class="category">{{ post.categories | join: " " }}</div>
-                <h3>
-                  <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                  </a>
-                </h3>
-                <span class="post-meta">By {{ post.author }} • {{ post.date | date: date_format }}</span>
+            <a href="{{ post.url | relative_url }}">
+              <div class="featured-post">
+                <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
+                <div class="content">
+                  <div class="category">{{ post.categories | join: " " }}</div>
+                  <h3>
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                      {{ post.title | escape }}
+                    </a>
+                  </h3>
+                  <span class="post-meta">By {{ post.author }} • {{ post.date | date: date_format }}</span>
+                </div>
               </div>
-            </div>
+            </a>
           {% else %}
             <!-- Regular post layout -->
             <div class="regular-post">

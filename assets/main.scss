@@ -108,7 +108,6 @@ body{
     .post-link {
       font-weight: bold;
       line-height: 1.2;
-      margin-bottom: $spacing-unit;
       color: #111 !important;
     }
   
@@ -143,6 +142,30 @@ body{
 // **************
 // GLOBAL
 // **************
+.site-title {
+  // font-family: 'Bungee Outline', cursive;
+  // font-family: 'Dosis', sans-serif;
+  // font-family: 'Lobster', cursive;
+  // font-family: 'Amatic SC', cursive;
+  // font-family: 'Permanent Marker', cursive;
+  // font-family: 'Caveat', cursive;
+  // font-family: 'Concert One', cursive;
+  // font-family: 'Major Mono Display', monospace;
+  // font-family: 'Gloria Hallelujah', cursive;
+  // font-family: 'Covered By Your Grace', cursive;
+  // font-family: 'Mali', cursive;
+  // font-family: 'Chewy', cursive;
+  // font-family: 'Cabin Sketch', cursive;
+  // font-family: 'Reenie Beanie', cursive;
+  // font-family: 'Oleo Script Swash Caps', cursive;
+  font-family: 'Bungee Shade';
+  // font-family: 'Londrina Shadow', cursive;
+
+  &, &:visited {
+    color: $primary-darker;
+  }
+}
+
 .post{
   .post-header {
     margin-bottom: 60px;
