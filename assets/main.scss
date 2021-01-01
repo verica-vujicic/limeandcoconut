@@ -267,22 +267,24 @@ drop-cap{
   line-height: 1.6;
 }
 
-// .site-nav {
-//   border: none;
+.site-nav {
+  border: none;
 
-//   .trigger{
-//     padding-top: 5px;
-//     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-//   }
+  .page-link {
+    color: $primary;
+  }
 
-//   .page-link {
-//     color: $primary;
-//   }
-
-//   .menu-icon > svg{
-//     fill: $primary-darker;
-//   }
-// }
+  .menu-icon > svg{
+    fill: $primary-darker;
+  }
+  
+  @media screen and (max-width: $on-palm){
+    .trigger{
+      padding-top: 5px;
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+  }
+}
 
 a {
   color: $primary;
