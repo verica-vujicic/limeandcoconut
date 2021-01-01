@@ -67,6 +67,12 @@ layout: default
       </div>
     {%- endif %}
 
-  {%- endif -%}
-
+  {%- else -%}
+    <div class="no-items">
+        <div class="image">
+            <img src="../assets/images/no-items.svg" alt="">
+        </div>
+        <span class="text">There are no posts in this category yet</span>
+    </div>
+  {%- endif %}
 </div>

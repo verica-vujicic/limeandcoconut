@@ -35,6 +35,7 @@ header_pages:
   - categories/tv.markdown
   - categories/health.markdown
   - categories/lifestyle.markdown
+  - categories/books.markdown
   - about.markdown
 
 # Categories:
