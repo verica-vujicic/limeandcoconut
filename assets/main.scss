@@ -21,7 +21,7 @@ body{
   .post-thumbnail{
     width: 100%;
     filter: brightness(50%);
-  }
+  } 
 
   .content{
     position: absolute;
@@ -251,9 +251,22 @@ drop-cap{
   line-height: 1.6;
 }
 
-.site-title, .site-title:visited{
-  color: $primary;
-}
+// .site-nav {
+//   border: none;
+
+//   .trigger{
+//     padding-top: 5px;
+//     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+//   }
+
+//   .page-link {
+//     color: $primary;
+//   }
+
+//   .menu-icon > svg{
+//     fill: $primary-darker;
+//   }
+// }
 
 a {
   color: $primary;
