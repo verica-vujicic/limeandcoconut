@@ -5,6 +5,8 @@ date:   2020-08-20 12:26:51 +0100
 author: "Verica Vujicic"
 categories: Health
 thumbnail: "/assets/images/Birthmarks/coveredface.jpg"
+hero:
+hero-credit:
 excerpt: "Some of those are not as harmless as you might think"
 ---
 <drop-cap>M</drop-cap>y sister recently gave birth to a healthy and beautiful little girl called Sonya. Sonya has this small pinkish V-shaped marking on her forehead, right between her eyebrows. The doctors said it is a common birthmark found in infants, and it’s called an angel kiss. Is the angel kiss harmful or just another skin mark as cute as it looks? Although most types of birthmarks are harmless and do not require any treatment, some types may cause health problems later on in a baby’s life.
@@ -168,4 +170,4 @@ In conclusion, one may say that most of the birthmarks are harmless and do not r
 
 
 
-Write to Verica Vujicic at verica.vujicic@yahoo.com
+Write to Verica Vujicic at [verica.vujicic@yahoo.com](mailto:verica.vujicic@yahoo.com)
