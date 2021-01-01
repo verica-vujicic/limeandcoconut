@@ -77,6 +77,7 @@ body{
   clear: both;
   float: left;
   margin-bottom: calc(#{$spacing-unit} / 2);
+  border-top: 1px solid #e7e7e8;
 
   .thumbnail-wrap{
     float:left; 
@@ -104,6 +105,7 @@ body{
 
   .details-wrap{
     float: left;
+    padding-top: calc(#{$spacing-unit} / 2);
 
     .post-link {
       font-weight: bold;
@@ -120,12 +122,9 @@ body{
   }
 
   @media screen and (max-width: $on-palm){
-    .thumbnail-wrap{
-      .category{
-        display: none;
-      }
-    }
     .details-wrap{
+      padding-top: calc(#{$spacing-unit} / 4);
+
       .post-link {
         font-size: 18px;
       }
