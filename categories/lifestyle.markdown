@@ -1,9 +1,6 @@
 ---
 layout: categories
 title: Lifestyle
-categories: Lifestyle
-header: "Category: Lifestyle"
-hero: 
-hero-credit: 
+category-name: Lifestyle
 permalink: /lifestyle/
 ---

@@ -276,29 +276,29 @@ drop-cap{
   line-height: 1.6;
 }
 
-.site-nav {
-  border: none;
+// .site-nav {
+//   border: none;
 
-  .page-link {
-    color: $primary;
-  }
+//   .page-link {
+//     color: $primary;
+//   }
 
-  .menu-icon > svg{
-    fill: $primary-darker;
-  }
-}
-@media screen and (max-width: $on-palm){
-  .site-nav{
-    background-color: unset;
-    z-index: 999;
+//   .menu-icon > svg{
+//     fill: $primary-darker;
+//   }
+// }
+// @media screen and (max-width: $on-palm){
+//   .site-nav{
+//     background-color: unset;
+//     z-index: 999;
 
-    .trigger{
-      background-color: #fdfdfd;
-      padding-top: 5px;
-      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    }
-  }
-}
+//     .trigger{
+//       background-color: #fdfdfd;
+//       padding-top: 5px;
+//       box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+//     }
+//   }
+// }
 
 a {
   color: $primary;
@@ -335,6 +335,92 @@ a {
 
   .text {
     color: #828282;
+  }
+}
+
+// **************
+// HEADER
+// **************
+.site-header {
+  border-bottom: none;
+
+  .wrapper {
+    text-align: center;
+
+    &.title-wrapper{
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: center;
+      position: relative;
+
+      &.border{
+        border-bottom: 3px solid #111;
+      }
+
+      .site-title{
+        font-size: 50px;
+        float: unset;
+        line-height: unset;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        line-height: 1;
+      }
+
+      // .category-wrapper {
+      //   position: absolute;
+      //   bottom: 0;
+
+      //   .name-box {
+      //     font-weight: bold;
+      //     border: 2px solid #111;
+      //     background-color: #fff;
+      //     line-height: 1;
+      //     padding: 9px 10px 5px 10px;
+      //     font-size: 20px;
+      //   }
+      // }
+    }
+    
+    .site-navigation {
+      border-top: 2px solid #111;
+      border-bottom: 2px solid #111;
+      padding: 9px;
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: center;
+      overflow-x: scroll;
+
+      .nav-link {
+        color: #111;
+        font-weight: bold;
+        letter-spacing: 1.5px;
+        line-height: 1;
+        padding-top: 2px;
+        position: relative;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 13px;
+
+        &:not(:first-child){
+          margin: 0 0 0 21px;
+
+          &::before{
+            border-left: 1px solid #020303;
+            bottom: 0;
+            content: '';
+            left: -12px;
+            overflow: hidden;
+            position: absolute;
+            top: 0;
+          }
+        }
+        
+        &:hover{
+          color: $primary;
+        }
+      }
+    }
   }
 }
 

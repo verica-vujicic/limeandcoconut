@@ -3,17 +3,17 @@ layout: default
 ---
 
 <div class="categories">
-  {%- if page.header -%}
-    <h1 class="page-heading">{{ page.header }}</h1>
+  {%- if page.title -%}
+    <h1 class="page-heading">Category: {{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts | where:"categories","page.categories" %}
+    {% assign posts = paginator.posts | where:"categories","page.category-name" %}
   {% else %}
-    {% assign posts = site.posts | where_exp: "item", "item.categories contains page.categories" %}
+    {% assign posts = site.posts | where_exp: "item", "item.categories contains page.category-name" %}
   {% endif %}
 
 

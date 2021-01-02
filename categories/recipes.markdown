@@ -1,9 +1,6 @@
 ---
 layout: categories
 title: Recipes
-categories: Recipes
-header: "Category: Recipes"
-hero: 
-hero-credit: 
+category-name: Recipes
 permalink: /recipes/
 ---

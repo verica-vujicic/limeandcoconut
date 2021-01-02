@@ -1,9 +1,6 @@
 ---
 layout: categories
 title: TV
-categories: TV
-header: "Category: TV"
-hero: 
-hero-credit: 
+category-name: TV
 permalink: /tv/
 ---

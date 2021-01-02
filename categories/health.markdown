@@ -1,9 +1,6 @@
 ---
 layout: categories
 title: Health
-categories: Health
-header: "Category: Health"
-hero: 
-hero-credit: 
+category-name: Health
 permalink: /health/
 ---

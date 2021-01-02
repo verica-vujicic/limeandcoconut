@@ -1,9 +1,6 @@
 ---
 layout: categories
 title: Movies
-categories: Movies
-header: "Category: Movies"
-hero: 
-hero-credit: 
+category-name: Movies
 permalink: /movies/
 ---
