@@ -382,47 +382,62 @@ a {
       // }
     }
 
-    @media screen and (min-width: $on-laptop){
+    &.nav-wrapper{
+      position: relative;
+
+      @media screen and (min-width: $on-laptop){
+        .site-navigation {
+          justify-content: center;
+        } 
+      }
+      
       .site-navigation {
-        justify-content: center;
-      } 
-    }
-    
-    .site-navigation {
-      border-top: 2px solid #111;
-      border-bottom: 2px solid #111;
-      padding: 9px;
-      display: flex;
-      overflow-x: scroll;
+        border-top: 2px solid #111;
+        border-bottom: 2px solid #111;
+        padding: 9px;
+        display: flex;
+        overflow-x: scroll;
 
-      .nav-link {
-        color: #111;
-        font-weight: bold;
-        letter-spacing: 1.5px;
-        line-height: 1;
-        padding-top: 2px;
-        position: relative;
-        text-align: center;
-        text-decoration: none;
-        text-transform: uppercase;
-        font-size: 13px;
+        .nav-link {
+          color: #111;
+          font-weight: bold;
+          letter-spacing: 1.5px;
+          line-height: 1;
+          padding-top: 2px;
+          position: relative;
+          text-align: center;
+          text-decoration: none;
+          text-transform: uppercase;
+          font-size: 13px;
 
-        &:not(:first-child){
-          margin: 0 0 0 21px;
-          &::before{
-            border-left: 1px solid #020303;
-            bottom: 0;
-            content: '';
-            left: -12px;
-            overflow: hidden;
-            position: absolute;
-            top: 0;
+          &:not(:first-child){
+            margin: 0 0 0 21px;
+            &::before{
+              border-left: 1px solid #020303;
+              bottom: 0;
+              content: '';
+              left: -12px;
+              overflow: hidden;
+              position: absolute;
+              top: 0;
+            }
+          }
+          
+          &:hover{
+            color: $primary;
           }
         }
-        
-        &:hover{
-          color: $primary;
-        }
+      }
+
+      &::after {
+        background: linear-gradient(to right, rgba(255, 255, 255, 0) 0, #fff 80%, #fff 100%);
+        bottom: 0;
+        content: '';
+        position: absolute;
+        right: 15px;
+        top: 2px;
+        width: 25px;
+        height: calc(100% - 4px);
       }
     }
   }
