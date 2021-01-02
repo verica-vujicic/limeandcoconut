@@ -4,7 +4,7 @@ title:  "Make Your Body Healthier by Training Hard Every Day - or - Just Go Outs
 date:   2020-12-21 12:26:51 +0100
 author: "Verica Vujicic"
 categories: Health
-thumbnail: "/assets/images/Birthmarks/coveredface.jpg"
+thumbnail: "/assets/images/cold/womancold.jpg"
 hero: 
 hero-credit:
 excerpt: "And how to adapt to the cold winter days"
