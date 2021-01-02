@@ -13,7 +13,7 @@ excerpt: "Some of those are not as harmless as you might think"
 
 <figure>
     <img src='/assets/images/Birthmarks/coveredface.jpg' alt='missing' />
-    <figcaption>Source: Caleb Woods / Unsplash</figcaption>
+    <figcaption>Photo by Caleb Woods / Unsplash</figcaption>
 </figure>
 
 Baby’s skin is like a book. You can tell a great deal of information just from watching their skin changing colors. Color changing depends on the baby’s health and the environment. It shows a baby’s race and ethnic origin, age, temperature, or whether or not a baby is crying, grunting or straining. Most of the skin colors will disappear over time. Birthmarks may also come and go, but some may stick around for a long time, even a lifetime.
@@ -36,7 +36,7 @@ There are two major types of birthmarks - **vascular** and **congenital** birthm
 
 <figure>
     <img src='/assets/images/Birthmarks/flecklesgirl.jpg' alt='missing' />
-    <figcaption>Source: Ben Hershey / Unsplash</figcaption>
+    <figcaption>Photo by Ben Hershey / Unsplash</figcaption>
 </figure>
 
 ## Vascular birthmarks - red, pink, purple
@@ -76,7 +76,7 @@ Stork bite refers to a birthmark on the back of the baby’s neck. According to 
 
 <figure>
     <img src='/assets/images/Birthmarks/girlpinkpurple.jpg' alt='missing' />
-    <figcaption>Source: Pranav Kumar Jain / Unsplash</figcaption>
+    <figcaption>Photo by Pranav Kumar Jain / Unsplash</figcaption>
 </figure>
 
 ## Pigmented birthmarks - brown
@@ -141,7 +141,7 @@ Several different treatments are available today. The main goal of any treatment
 
 <figure>
     <img src='/assets/images/Birthmarks/simonraegirlinwhite.jpg' alt='missing' />
-    <figcaption>Source: Simon Rae / Unsplash</figcaption>
+    <figcaption>Photo by Simon Rae / Unsplash</figcaption>
 </figure>
 
 ## Medications

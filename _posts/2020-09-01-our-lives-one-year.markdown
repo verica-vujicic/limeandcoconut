@@ -11,7 +11,7 @@ excerpt: "What is it like to have a baby during the COVID-19"
 
 <figure>
     <img src='/assets/images/OurLives/daniel-cheung-troop.jpg' alt='missing' />
-    <figcaption>Source: Daniel Cheung / Unsplash</figcaption>
+    <figcaption>Photo by Daniel Cheung / Unsplash</figcaption>
 </figure>
 
 **Q: When have you decided to have a child? What circumstances led to the decision?**
@@ -58,7 +58,7 @@ excerpt: "What is it like to have a baby during the COVID-19"
 
 <figure>
     <img src='/assets/images/OurLives/marcos_paulo_prado_family.jpg' alt='missing' />
-    <figcaption>Source: Marcos Paulo Prado / Unsplash</figcaption>
+    <figcaption>Photo by Marcos Paulo Prado / Unsplash</figcaption>
 </figure>
 
 > **B**: This is just what I have expected. I imagined nothing different. There was no fear for me. You become a father, and you go with a flow, keep living every moment, and keep trying your best for your wife and baby. It becomes another sweet duty as going to work you enjoy. It clicks into your life. Yes, it changes your life, but you do not even notice it. Your family extends for an additional family member, and that is it. Very soon, it becomes old news. 
@@ -79,7 +79,7 @@ excerpt: "What is it like to have a baby during the COVID-19"
 
 <figure>
     <img src='/assets/images/OurLives/kahar-erbol-small-baby.jpg' alt='missing' />
-    <figcaption>Source: Kahar Erbol / Unsplash</figcaption>
+    <figcaption>Photo by Kahar Erbol / Unsplash</figcaption>
 </figure>
 
 > **B**: I have to admit, I do not see any of that so intimidating. Christine  worries a bit too much. I think it’s got something to do with those chemicals she mentioned before. Mothers worry too much, sometimes beyond reason. Fathers do not have that feeling right from the start but develop during the time. I know that the child will fall off the bike, and will hurt their hands, and bruised their knee or head, or even break something. I see that as expected and completely normal thing to happen.
