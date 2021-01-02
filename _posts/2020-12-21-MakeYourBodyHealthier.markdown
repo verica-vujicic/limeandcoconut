@@ -34,7 +34,7 @@ You don’t need a coach nor the equipment to reach a goal here. All you have to
 
 ## Suggestion For Training At Home
 
-To start your home exercise, begin with buying a timer because things are about to get wet. During the first week, start showering with cold water for 15 seconds. If you start to shiver, stop the exercise and warm-up. Shivering is a form of muscle contraction, so the muscle produces additional heat energy for supporting the body. The next week try to lengthen the cold part of the shower for 5 or 10 seconds. The shivering will become rarer and eventually disappear as the brain adapts to these new conditions. Every week add 5 to 10 seconds until you can perform the whole showering process with cold water. Be patient and be determined.
+To start your home exercise, begin with buying a timer because things are about to get wet. During the first week, start showering with cold water for 15 seconds. If you start to shiver, stop the exercise and warm-up. Shivering is a form of muscle contraction, so [the muscle produces additional heat energy](https://pubmed.ncbi.nlm.nih.gov/30896355/) for supporting the body. The next week try to lengthen the cold part of the shower for 5 or 10 seconds. The shivering will become rarer and eventually disappear as the brain adapts to these new conditions. Every week add 5 to 10 seconds until you can perform the whole showering process with cold water. Be patient and be determined.
 
 <figure>
     <img src='/assets/images/cold/shower.jpg' alt='missing' />
@@ -47,6 +47,10 @@ If you can not tolerate cold water, don’t worry. Simply take a long walk outsi
 
 Dave Whitley is a coach and motivational speaker who practices cold exposure as part of his daily routine. His showers are cold, and water is nearly freezing in his outdoor shed. Although cold water seems unbearable at first, at the end of the process, it becomes pleasant, he says. Adapting to the cold takes practice and commitment.
 
+<div class="aside-quote"><q>
+    "Although cold water seems unbearable at first, at the end of the process, it becomes pleasant"
+</q></div>
+
 If you liked the beginner training, you can always test your limits. Since humans tolerate cold air much better than cold water, start with the land exercises. Wearing shorts in 4-degree-celsius weather, holding hands under freezing water, or wearing ice packs on the back of the neck are just some of the methods. Extremists take a bath in a tub filled with ice cubes or ice blocks. But let’s not go there.
 
 <figure>
@@ -56,7 +60,7 @@ If you liked the beginner training, you can always test your limits. Since human
 
 ## What does science have to say?
 
-Lithuanian scientists researched cold water effects in 2014 over a group of 14 male volunteers who spend up to three hours a day in 13-degrees celsius cold water. The experiment lasted for three weeks and showed hyperventilation, a decrease in heart rate, delayed immune system response, improved attention, and memory. A similar study was conducted several years later, but this time with 12 young volunteers who agreed to spend 10 minutes a day in cold water. The outcome was the same, and the study author, Dr. Marius Brazaitis, admitted that he felt a little guilty for the exhausting methodology of the first study.
+Lithuanian scientists [researched cold water effects](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094698) in 2014 over a group of 14 male volunteers who spend up to three hours a day in 13-degrees celsius cold water. The experiment lasted for three weeks and showed hyperventilation, a decrease in heart rate, delayed immune system response, improved attention, and memory. A similar study was conducted several years later, but this time with 12 young volunteers who agreed to spend 10 minutes a day in cold water. The outcome was the same, and the study author, Dr. Marius Brazaitis, admitted that he felt a little guilty for the exhausting methodology of the first study.
 
 This finding supports the theory of cold water showering. Dr. Brazaitis argued that you can adapt by starting with higher temperatures and then decreasing it day by day so the temperature would be lower and the time spent longer.
 
