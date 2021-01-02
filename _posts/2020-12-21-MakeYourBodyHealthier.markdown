@@ -25,7 +25,7 @@ The answer is - no. Professors, trainers, and experts found ways to overcome the
 According to physiology professor at the University of Oregon, Dr. Christopher Minson, humans enjoy the warmth and don’t like temperature oscillations in the system. Getting out of your comfort zone is a challenge for the whole body. In the cold, the blood vessels constrict, the metabolic rate is a bit higher, and the heart works faster. That way, every cell is pushed to work a little more than usual, just like during the exercise. 
 
 <div class="aside-quote"><q>
-    In the cold, the blood vessels constrict, the metabolic rate is a bit higher, and the heart works faster. That way, every cell is pushed to work a little more than usual, just like during the exercise 
+    In the cold, the blood vessels constrict, the metabolic rate is a bit higher, and the heart works faster
 </q></div>
 
 ## How To Do It?
@@ -59,10 +59,6 @@ If you liked the beginner training, you can always test your limits. Since human
 Lithuanian scientists researched cold water effects in 2014 over a group of 14 male volunteers who spend up to three hours a day in 13-degrees celsius cold water. The experiment lasted for three weeks and showed hyperventilation, a decrease in heart rate, delayed immune system response, improved attention, and memory. A similar study was conducted several years later, but this time with 12 young volunteers who agreed to spend 10 minutes a day in cold water. The outcome was the same, and the study author, Dr. Marius Brazaitis, admitted that he felt a little guilty for the exhausting methodology of the first study.
 
 This finding supports the theory of cold water showering. Dr. Brazaitis argued that you can adapt by starting with higher temperatures and then decreasing it day by day so the temperature would be lower and the time spent longer.
-
-<div class="aside-quote"><q>
-    Dr. Brazaitis argued that you can adapt by starting with higher temperatures and then decreasing it day by day so the temperature would be lower and the time spent longer
-</q></div>
 
 ## It’s Not Good For Everyone
 
