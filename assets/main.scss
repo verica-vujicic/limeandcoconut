@@ -224,6 +224,30 @@ drop-cap{
   text-indent: 0;
 }
 
+body{
+  counter-reset: step-counter;
+}
+step {
+  display: block;
+  margin: 0 0 20px 50px;
+  position: relative;
+  counter-increment: step-counter; 
+
+  &::before {
+    content: counter(step-counter);
+    position: absolute;
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #424242;
+    left: -50px;
+    width: 30px;
+    border-right: 4px solid $primary;
+    padding-right: 5px;
+  }
+}
+
 @media screen and (min-width: $on-laptop){
   .aside-quote {
     float: right;
