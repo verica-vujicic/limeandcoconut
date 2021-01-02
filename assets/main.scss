@@ -61,6 +61,7 @@ body{
     }
     .post-link {
       font-size: 25px;
+      line-height: 1.2;
     }
     .post-meta{
       font-size: 12px;
@@ -384,11 +385,9 @@ a {
     .site-navigation {
       border-top: 2px solid #111;
       border-bottom: 2px solid #111;
-      padding: 9px;
-      display: flex;
-      flex-wrap: nowrap;
-      justify-content: center;
+      padding: 5px;
       overflow-x: scroll;
+      text-align: center;
 
       .nav-link {
         color: #111;
@@ -404,7 +403,6 @@ a {
 
         &:not(:first-child){
           margin: 0 0 0 21px;
-
           &::before{
             border-left: 1px solid #020303;
             bottom: 0;
