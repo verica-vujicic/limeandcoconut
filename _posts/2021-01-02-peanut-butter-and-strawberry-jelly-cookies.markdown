@@ -44,7 +44,7 @@ Bake them for around 10 to 13 minutes. While baking them, keep an eye on your co
 </step>
 
 <step>
-Let them cool. Spread a strawberry jam on the flat side of the compact heart and put a flat sie of hollowed one on it. Repeat the process until you're out of cookies. 
+Let them cool. Spread a strawberry jam on the flat side of the compact heart and join it with a flat side of hollowed one. Repeat the process until you're out of cookies. 
 </step>
 
 Hopefully, you'll not be literally out of cookies before you finish them. 
