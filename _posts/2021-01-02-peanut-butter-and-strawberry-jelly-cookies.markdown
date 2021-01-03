@@ -16,12 +16,12 @@ excerpt: "Gorgeous and tasteful cookie everyone will love"
         <div class="dash-icon" title="Preparation time">
             <img src="/assets/images/icons/clock.svg" alt="Preparation time">
         </div>
-        <div class="dash-text">15min</div>
+        <div class="dash-text">110min</div>
     </div>
     <div class="dash-card">
         <div class="dash-icon difficulty" title="Difficulty">
             <img src="/assets/images/icons/circle-fill.svg" alt="">
-            <img src="/assets/images/icons/circle.svg" alt="">
+            <img src="/assets/images/icons/circle-fill.svg" alt="">
             <img src="/assets/images/icons/circle.svg" alt="">
         </div>
         <div class="dash-text">Medium</div>
@@ -30,13 +30,13 @@ excerpt: "Gorgeous and tasteful cookie everyone will love"
         <div class="dash-icon" title="Serves">
             <img src="/assets/images/icons/person.svg" alt="Serves">
         </div>
-        <div class="dash-text">8 persons</div>
+        <div class="dash-text">5 persons</div>
     </div>
     <div class="dash-card">
         <div class="dash-icon" title="Rating">
             <img src="/assets/images/icons/star.svg" alt="Preparation time">
         </div>
-        <div class="dash-text">4/5</div>
+        <div class="dash-text">5/5</div>
     </div>
 </div>
  
@@ -50,7 +50,7 @@ excerpt: "Gorgeous and tasteful cookie everyone will love"
 - 75 g peanut butter
 - 1 tbsp honey
 - 125 g butter
-- 100 g confectioners' sugar
+- 100 g powdered sugar
 - 225 g flour
 - 200 g strawberry jelly
 
