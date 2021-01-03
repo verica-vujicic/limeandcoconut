@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peanut Butter and Strawberry Jelly Cookies"
-date:   2021-01-02 12:26:51 +0100
+date:   2021-01-03 12:26:51 +0100
 author: "Verica Vujicic"
 categories: Recipes
 thumbnail: "/assets/images/PeanutButter/red.JPG"
