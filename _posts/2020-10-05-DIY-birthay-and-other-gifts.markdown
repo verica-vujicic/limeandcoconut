@@ -20,6 +20,8 @@ Paintings are beautiful and simple gifts to make. It is an artistic and eternal 
     <figcaption></figcaption>
 </figure>
 
+<br>
+
 ## 2. Wood Plank Art
 
 If you don't have a canvas, there are many different surfaces you can put your drawing on. In my case, I used an old and unusable wood out of which I created planks and connected them with ropes. Material is irrelevant. However, wood has a special effect, especially after covering painting with a varnish that makes your work even more pretty. My best friend enjoys cocktails, so I made the recipe board for her, but you can paint everything that comes to your mind.
@@ -28,6 +30,8 @@ If you don't have a canvas, there are many different surfaces you can put your d
     <img src='/assets/images/DIY/kombo.png' alt='missing' />
     <figcaption></figcaption>
 </figure>
+
+<br>
 
 ## 3. Decoupage
 
@@ -38,6 +42,8 @@ Speaking of the paintings and wood art, keep in mind that you can create a decou
     <figcaption></figcaption>
 </figure>
 
+<br>
+
 ## 4. Jewelry 
 
 Jewelry may be a perfect gift for girls, but boys too. Everyone has a bunch of old pearls, rocks, ribbons, chains, and beads. Don’t forget that there are so many ways to make a necklace. You can use whatever you have at home: paperclips, wool, or any other material. Hair accessories are also an option. Make a pile of found material, play with colors, and let your hands do the rest.
@@ -46,6 +52,8 @@ Jewelry may be a perfect gift for girls, but boys too. Everyone has a bunch of o
     <img src='/assets/images/DIY/necklace.jpeg' alt='missing' />
     <figcaption></figcaption>
 </figure>
+
+<br>
 
 ## 5. Scarf
 
@@ -56,6 +64,8 @@ Winter is coming indeed, and knitting is one relaxing and enjoyable activity. It
     <figcaption></figcaption>
 </figure>
 
+<br>
+
 ## 6. Board Game
 
 Making a board game is a challenging task to do. I made a Scrabble game for my sister, and it was a hell of a job. The game has three elements: a hundred wooden tiles with letters, a game board, and two wooden holders for tiles. Also, it would be magnificent if you could print out game rules available on the internet.
@@ -65,6 +75,8 @@ Making a board game is a challenging task to do. I made a Scrabble game for my s
     <figcaption></figcaption>
 </figure>
 
+<br>
+
 ## 7. Cakes and Cookies
 
 Cookies are a lovely way to show someone appreciation. Making cookies is super easy. All you need to do is pick [a recipe that you feel comfortable making](https://www.google.com/search?client=safari&bih=837&biw=1440&hl=en&sxsrf=ALeKk02pS5AaiO2amSS6w1w-u6-oxJqH5g%3A1609603465977&ei=iZnwX-uAO6f5sAfNwLWYCg&q=easy+recipes+cookies&oq=easy+recipes+cookies&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECAAQRzoHCAAQyQMQQzoECAAQQzoHCAAQFBCHAjoICAAQyQMQkQJQ6BFYlhlgshxoAHACeACAAWeIAeoFkgEDNy4xmAEAoAEBqgEHZ3dzLXdpesgBB8ABAQ&sclient=psy-ab&ved=0ahUKEwir6cWW0P3tAhWnPOwKHU1gDaMQ4dUDCAw&uact=5). From my experience, the only thing you should know is whether your friend is a chocolate fan or a fruit lover. I have this habit of making cakes for birthdays and cookies for all other occasions, although that’s not exclusively. If you want to put a bow on the top of the box, the best choice would be smaller cookies, such as chocolate chip cookies.
@@ -73,6 +85,8 @@ Cookies are a lovely way to show someone appreciation. Making cookies is super e
     <img src='/assets/images/DIY/cake.jpeg' alt='missing' />
     <figcaption></figcaption>
 </figure>
+
+<br>
 
 You can always write a poem or a short story, record or perform a recitation or play the verse out on the guitar, or sing that thing! But most importantly, remember that there are no rules in regards to what or how you are going to make something. Everyone adores handmade gifts. 
 
