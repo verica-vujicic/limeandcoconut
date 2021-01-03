@@ -16,7 +16,7 @@ excerpt: "Gorgeous and tasteful cookie everyone will love"
         <div class="dash-icon" title="Preparation time">
             <img src="/assets/images/icons/clock.svg" alt="Preparation time">
         </div>
-        <div class="dash-text">110min</div>
+        <div class="dash-text">1h 50min</div>
     </div>
     <div class="dash-card">
         <div class="dash-icon difficulty" title="Difficulty">
