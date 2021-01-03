@@ -33,6 +33,8 @@ goodreads_username: verica_vujicic
 
 header_pages:
   - categories/tv.markdown
+  - categories/recipes.markdown
+  - categories/diy.markdown
   - categories/health.markdown
   - categories/lifestyle.markdown
   - categories/books.markdown
