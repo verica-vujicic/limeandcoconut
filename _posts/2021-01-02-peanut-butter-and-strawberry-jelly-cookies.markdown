@@ -10,6 +10,35 @@ hero-credit:
 excerpt: "Gorgeous and tasteful cookie everyone will love"
 ---
 <drop-cap>P</drop-cap>eanut butter and strawberry jelly make a great combination well known in the west. But these Italian cookies are more sophisticated and are so delicious, you could serve them to the Royal queen and not be embarrassed. Peanut butter cookies are rich in taste and go well with coffee, tea, or alone. Although they are made of peanut butter and honey, these cookies are easy to swallow. One round makes 17 to 20 cookies depending on dough thickness and the size of the cookie mold. Once you try it, soon you'll see that one round is just never enough.
+
+<div class="recipe-dashboard">
+    <div class="dash-card">
+        <div class="dash-icon" title="Preparation time">
+            <img src="/assets/images/icons/clock.svg" alt="Preparation time">
+        </div>
+        <div class="dash-text">15min</div>
+    </div>
+    <div class="dash-card">
+        <div class="dash-icon difficulty" title="Difficulty">
+            <img src="/assets/images/icons/circle-fill.svg" alt="">
+            <img src="/assets/images/icons/circle.svg" alt="">
+            <img src="/assets/images/icons/circle.svg" alt="">
+        </div>
+        <div class="dash-text">Medium</div>
+    </div>
+    <div class="dash-card">
+        <div class="dash-icon" title="Serves">
+            <img src="/assets/images/icons/person.svg" alt="Serves">
+        </div>
+        <div class="dash-text">8 persons</div>
+    </div>
+    <div class="dash-card">
+        <div class="dash-icon" title="Rating">
+            <img src="/assets/images/icons/star.svg" alt="Preparation time">
+        </div>
+        <div class="dash-text">4/5</div>
+    </div>
+</div>
  
  <figure>
     <img src='/assets/images/PeanutButter/red.JPG' alt='missing' />

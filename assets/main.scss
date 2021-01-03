@@ -248,6 +248,51 @@ step {
   }
 }
 
+.recipe-dashboard {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: 5px solid $primary;
+  margin-bottom: 30px;
+
+  .dash-card {
+    display: flex;
+    flex-direction: column;
+    padding: 15px 15px 10px 15px;
+    text-align: center;
+    flex: 0 0 50%;
+    max-width: 50%;
+    flex-basis: 0;
+    flex-grow: 1;
+
+    .dash-icon {
+      height: 40px;
+
+      img {
+        max-width: 40px;
+        height: 100%;
+      }
+      &.difficulty{
+        img {
+          max-width: 25px;
+        }
+      }
+    }
+    .dash-text {
+      color: #111;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+  }
+
+  @media screen and (max-width: $on-palm) {
+    .dash-card {
+      flex-basis: calc(50% - 30px);
+    }
+  }
+}
+
 @media screen and (min-width: $on-laptop){
   .aside-quote {
     float: right;
