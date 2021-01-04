@@ -6,7 +6,7 @@ author: "Verica Vujicic"
 categories: Expedition
 thumbnail: "/assets/images/KosmajJan2021/fjgrand.jpg"
 hero: "/assets/images/KosmajJan2021/kosmaj.jpg"
-hero-credit: "USA Network"
+hero-credit: 
 excerpt: "Beautiful and relaxing picnic in nature"
 ---
 <drop-cap>K</drop-cap>osmaj mountain lies in central Serbia, south of Belgrade. Kosmaj is 626 m elevated and has a nickname that shares with Avala mountain - "Belgrade mountain." It lies in a beautiful Serbian subregion known as Sumadija ("suma" means forest in English). 
