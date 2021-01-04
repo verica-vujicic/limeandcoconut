@@ -5,7 +5,7 @@ date:   2020-10-05 12:26:51 +0100
 author: "Verica Vujicic"
 categories: DIY
 thumbnail: "/assets/images/DIY/boardgame.jpeg"
-hero:
+hero: 
 hero-credit:
 excerpt: "Tips and ideas for your next craft"
 ---
@@ -17,7 +17,7 @@ Paintings are beautiful and simple gifts to make. It is an artistic and eternal 
 
 <figure>
     <img src='/assets/images/DIY/papagaji.jpeg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 <br>
@@ -28,7 +28,7 @@ If you don't have a canvas, there are many different surfaces you can put your d
 
 <figure>
     <img src='/assets/images/DIY/kombo.png' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 <br>
@@ -39,7 +39,7 @@ Speaking of the paintings and wood art, keep in mind that you can create a decou
 
 <figure>
     <img src='/assets/images/DIY/decoupage.jpeg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 <br>
@@ -50,7 +50,7 @@ Jewelry may be a perfect gift for girls, but boys too. Everyone has a bunch of o
 
 <figure>
     <img src='/assets/images/DIY/necklace.jpeg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Luka Stanisic / Dev Harbor</figcaption>
 </figure>
 
 <br>
@@ -61,7 +61,7 @@ Winter is coming indeed, and knitting is one relaxing and enjoyable activity. It
 
 <figure>
     <img src='/assets/images/DIY/scarf.jpeg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 <br>
@@ -72,7 +72,7 @@ Making a board game is a challenging task to do. I made a Scrabble game for my s
 
 <figure>
     <img src='/assets/images/DIY/boardgame.jpeg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Luka Stanisic / Dev Harbor</figcaption>
 </figure>
 
 <br>
@@ -83,7 +83,7 @@ Cookies are a lovely way to show someone appreciation. Making cookies is super e
 
 <figure>
     <img src='/assets/images/DIY/cake.jpeg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Luka Stanisic / Dev Harbor</figcaption>
 </figure>
 
 <br>

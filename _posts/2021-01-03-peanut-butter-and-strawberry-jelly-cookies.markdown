@@ -83,7 +83,7 @@ Yes, they are that good.
 
 <figure>
     <img src='/assets/images/PeanutButter/insta.jpeg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 ### **TIPS**

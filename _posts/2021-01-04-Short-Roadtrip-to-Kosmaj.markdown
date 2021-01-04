@@ -6,7 +6,7 @@ author: "Verica Vujicic"
 categories: Roadtrip
 thumbnail: "/assets/images/KosmajJan2021/fjgrand.jpg"
 hero: "/assets/images/KosmajJan2021/kosmaj.jpg"
-hero-credit: 
+hero-credit: "Photo by Verica Vujicic / Lime & Coconut"
 excerpt: "Beautiful and relaxing picnic in nature"
 ---
 <drop-cap>K</drop-cap>osmaj mountain lies in central Serbia, just south of Belgrade. Kosmaj is 626 m above sea level and has a nickname that shares with Avala mountain - "Belgrade mountain." It lies in a beautiful Serbian subregion known as Sumadija ("suma" means forest in Serbian). 
@@ -15,7 +15,7 @@ The mountain resides 58 km from Belgrade, 71 km from Kragujevac, and 149 km from
 
 <figure>
     <img src='/assets/images/KosmajJan2021/fjgrand.jpg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 In this article, several nice spots are described, from archaeological sites from the fourteen century to Serbian brewery with crafted beers, all followed by astounding Kosmaj nature. 
@@ -24,7 +24,7 @@ In this article, several nice spots are described, from archaeological sites fro
 
 <figure>
     <img src='/assets/images/KosmajJan2021/map.png' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 With six sites visited, the whole road trip lasted for six hours with eight stops for coffees, cookies, chitchats with villagers, beers, and sausages. The road trip plan is an adjustable and safe route with a short cultivated off-road section around the Kastaljan monastery.
@@ -36,7 +36,7 @@ With six sites visited, the whole road trip lasted for six hours with eight stop
 
 <figure>
     <img src='/assets/images/KosmajJan2021/jezero.jpg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 <br>
@@ -57,7 +57,7 @@ Utesiteljevo church and monastery are part of [The Serbian True Orthodox Chuch (
 
 <figure>
     <img src='/assets/images/KosmajJan2021/tresije.jpg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
  
 <br>
@@ -68,25 +68,24 @@ The archeological site at Kosmaj mountain known as Kastaljan is an amazing disco
 
 <figure>
     <img src='/assets/images/KosmajJan2021/kastaljann.jpg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
-Thick stone walls and numerous window and door frames extend to hundreds of meters. As a monument of exceptional values, Kastaljan describes the period of [despot Stefan Lazarević](https://en.wikipedia.org/wiki/Stefan_Lazarević), and the power and wealth of the Serbian country during the middle age. 
+Thick stone walls and numerous window and door frames extend to hundreds of meters. As a monument of exceptional values, Kastaljan describes the period of [despot Stefan Lazarević](https://en.wikipedia.org/wiki/Stefan_Lazarević), and the power and wealth of the Serbian country during the middle-age. 
  
+ <div class="aside-quote"><q>
+    "The middle-age monasteries were built to be no longer than one riding day apart"
+</q></div>
+
+Svetolik Busarac, trip advisor and co-founder of the 4x4 Serbia Crew association, says that the middle-age monasteries were built to be no longer than one riding day apart, so the travelers would always have a place to stay during the night. No wonder there are so many monasteries and churches in such close range here on Kosmaj.
  
 ## 5. The Monument to Kosmaj Partisan Devision
 
 The most popular attraction is [the monument to Kosmaj partisan division](https://www.google.com/search?q=kosmaj+monument&client=safari&rls=en&sxsrf=ALeKk01vn09QjggLNOzBUW-4b4cU6m2WFg:1609777439142&source=lnms&tbm=isch&sa=X&ved=2ahUKEwixrrWj2ILuAhWRCuwKHebMC1oQ_AUoAXoECBIQAw&biw=1440&bih=837) from world war II on the top of Kosmaj mountain. It was built in 1971 as a symbol of freedom and the eternal flame of those who fell during WWII. The base is 18 m wide. The monument consists of five concrete arms 30 meters high. Soon after sculptor Vojin Stojić and architect Gradimir Medaković revealed the statue, it became a sign of recognition of the Kosmaj area.
 
-<div class="aside-quote"><q>
-    "The middle ages monasteries were built on a day of the horse ride from each other"
-</q></div>
-
-Svetolik Busarac, trip advisor and co-founder of the 4x4 Serbia Crew association, says that the middle ages monasteries were built on a day of the horse ride from each other, so the travelers would always have a place to stay during the night. No wonder there are so many monasteries and churches in such close range here on Kosmaj, says he.
-
 <figure>
     <img src='/assets/images/KosmajJan2021/partizani.jpg' alt='missing' />
-    <figcaption></figcaption>
+    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
 <br>
@@ -96,8 +95,8 @@ Svetolik Busarac, trip advisor and co-founder of the 4x4 Serbia Crew association
 [Kabinet Brewery](https://www.kabinet.rs/index.php/en) is located in the village called Nemenikuce. It's in the middle of nowhere, and there are no signs to it, nor the other way around. From the outside, it looks like a container for cement and other construction material. But once you enter the place, you won't get out. The brewery has one side in glass and is open to the Sumadija and further. The view is extraordinary. 
 
 <figure>
-    <img src='/assets/images/KosmajJan2021/kabinet.jpg' alt='missing' />
-    <figcaption></figcaption>
+    <img src='/assets/images/KosmajJan2021/brewery.jpeg' alt='missing' />
+    <figcaption>Photo by Svetolik Busarac</figcaption>
 </figure>
 
 In regards to the menu, they have the whole thing. Appetizers, salads, sausages, chopped beef - you name it. And, of course, sixteen types of delicious crafted beer are something you never tasted before. There is also a souvenir shop where you can buy a T-Shirt, a special new year's edition of the four-pack beer, or any other Kabinet beer you like!
