@@ -14,7 +14,7 @@ excerpt: "Beautiful and relaxing picnic in nature"
 The mountain resides 58 km from Belgrade, 71 km from Kragujevac, and 149 km from Novi Sad. If you live in central Serbia, this is a perfect idea for the weekend or even an afternoon ride, alone or with a family. 
 
 <figure>
-    <img src='/assets/images/KosmajJan2021/fjgrand.JPG' alt='missing' />
+    <img src='/assets/images/KosmajJan2021/fjgrand.jpg' alt='missing' />
     <figcaption></figcaption>
 </figure>
 
