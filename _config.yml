@@ -35,7 +35,7 @@ header_pages:
   - categories/tv.markdown
   - categories/health.markdown
   - categories/lifestyle.markdown
-  - categories/expedition.markdown
+  - categories/roadtrip.markdown
   - categories/books.markdown
   - categories/recipes.markdown
   - categories/diy.markdown
@@ -48,7 +48,7 @@ header_pages:
 # - DIY
 # - Health
 # - Lifestyle
-# - Expedition
+# - Roadtrip
 # - Recipes
 
 # Build settings
