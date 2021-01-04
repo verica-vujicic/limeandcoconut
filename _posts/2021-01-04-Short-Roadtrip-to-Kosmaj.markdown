@@ -24,7 +24,7 @@ In this article, several nice spots are described, from archaeological sites fro
 
 <figure>
     <img src='/assets/images/KosmajJan2021/map.png' alt='missing' />
-    <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
+    <figcaption></figcaption>
 </figure>
 
 With six sites visited, the whole road trip lasted for six hours with eight stops for coffees, cookies, chitchats with villagers, beers, and sausages. The road trip plan is an adjustable and safe route with a short cultivated off-road section around the Kastaljan monastery.
