@@ -57,7 +57,7 @@ excerpt: "Gorgeous and tasteful cookie everyone will love"
 ### **DIRECTIONS**
 
 <step>
-Mix peanut butter, honey, butter, and confectioners' sugar. Cookies will be better if the ingredients are combined using a silicone spatula instead of a mixer. But, if you're running out of time, a mixer will do. Add flour and mix it.
+Mix peanut butter, honey, butter, and powdered sugar. Cookies will be better if the ingredients are combined using a silicone spatula instead of a mixer. But, if you're running out of time, a mixer will do. Add flour and mix it.
 </step>
 
 <step>
@@ -76,7 +76,7 @@ Bake them for around 10 to 13 minutes. While baking them, keep an eye on your co
 Let them cool. Spread a strawberry jam on the flat side of the compact heart and join it with a flat side of hollowed heart. Repeat the process until you're out of cookies. 
 </step>
 
-Hopefully, you'll not be literally out of cookies before you finish them. 
+Hopefully, you won't be literally out of cookies before you finish them. 
 
 
 Yes, they are that good.

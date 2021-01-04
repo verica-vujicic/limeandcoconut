@@ -7,7 +7,7 @@ categories: Health
 thumbnail: "/assets/images/cold/womancold.jpg"
 hero: 
 hero-credit:
-excerpt: "And how to adapt to the cold winter days"
+excerpt: "How to adapt to the cold winter days"
 ---
 <drop-cap>T</drop-cap>he cold doesn’t have to be painful, or at least, not always. Regardless of whether you’re a winter person or not, these tips and tricks can help you adapt to the cold winter days. The cold can even make you healthier, just like the gym workouts.
 

@@ -7,7 +7,7 @@ categories: TV
 thumbnail: "/assets/images/TheSinner/JamieandTheSun.jpg"
 hero: "/assets/images/TheSinner/AmbrosePink.jpg"
 hero-credit: "USA Network"
-excerpt: "And how an ordinary man becomes a murderer"
+excerpt: "How an ordinary man becomes a murderer"
 ---
 
 

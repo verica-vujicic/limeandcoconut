@@ -33,18 +33,23 @@ goodreads_username: verica_vujicic
 
 header_pages:
   - categories/tv.markdown
-  - categories/recipes.markdown
-  - categories/diy.markdown
   - categories/health.markdown
   - categories/lifestyle.markdown
+  - categories/expedition.markdown
   - categories/books.markdown
+  - categories/recipes.markdown
+  - categories/diy.markdown
   - about.markdown
 
 # Categories:
 # - TV
 # - Movies
 # - Books
+# - DIY
 # - Health
+# - Lifestyle
+# - Expedition
+# - Recipes
 
 # Build settings
 theme: minima
