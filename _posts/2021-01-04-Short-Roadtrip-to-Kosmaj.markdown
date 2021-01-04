@@ -96,7 +96,7 @@ The most popular attraction is [the monument to Kosmaj partisan division](https:
 
 <figure>
     <img src='/assets/images/KosmajJan2021/brewery.jpeg' alt='missing' />
-    <figcaption>Photo by Svetolik Busarac</figcaption>
+    <figcaption>Photo by Svetolik Busarac / 4x4 Serbia Crew</figcaption>
 </figure>
 
 In regards to the menu, they have the whole thing. Appetizers, salads, sausages, chopped beef - you name it. And, of course, sixteen types of delicious crafted beer are something you never tasted before. There is also a souvenir shop where you can buy a T-Shirt, a special new year's edition of the four-pack beer, or any other Kabinet beer you like!
