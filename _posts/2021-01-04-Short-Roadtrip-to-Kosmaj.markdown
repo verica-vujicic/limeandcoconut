@@ -3,7 +3,7 @@ layout: post
 title:  "Short Roadrip to Kosmaj Mountain"
 date:   2021-01-04 12:26:51 +0100
 author: "Verica Vujicic"
-categories: Roadtrip
+categories: Roadtrips
 thumbnail: "/assets/images/KosmajJan2021/fjgrand.jpg"
 hero: "/assets/images/KosmajJan2021/kosmaj.jpg"
 hero-credit: "Photo by Verica Vujicic / Lime & Coconut"
