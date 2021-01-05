@@ -35,6 +35,7 @@ header_pages:
   - categories/tv.markdown
   - categories/health.markdown
   - categories/lifestyle.markdown
+  #- categories/kratkeprice.markdown
   - categories/roadtrips.markdown
   - categories/books.markdown
   - categories/recipes.markdown

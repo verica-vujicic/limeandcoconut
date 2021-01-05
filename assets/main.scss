@@ -473,9 +473,9 @@ a {
       .site-navigation {
         border-top: 2px solid #111;
         border-bottom: 2px solid #111;
-        padding: 9px;
         display: flex;
         overflow-x: auto;
+        padding-left: 9px;
 
         .nav-link {
           color: #111;
@@ -483,14 +483,17 @@ a {
           letter-spacing: 1.5px;
           line-height: 1;
           padding-top: 2px;
+          margin-top: 9px;
+          margin-bottom: 9px;
           position: relative;
           text-align: center;
           text-decoration: none;
           text-transform: uppercase;
           font-size: 13px;
+          white-space: nowrap;
 
           &:not(:first-child){
-            margin: 0 0 0 21px;
+            margin-left: 21px;
             &::before{
               border-left: 1px solid #020303;
               bottom: 0;
