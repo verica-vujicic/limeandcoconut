@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Izvinjenje"
-date:   2021-01-06 06:00:00 +0100
+date:   2021-01-05 06:00:00 +0100
 author: "Verica Vujicic"
 categories: ["Kratke Priče"]
 thumbnail: "/assets/images/hrabrost/impression.jpeg"
