@@ -489,8 +489,16 @@ a {
           text-align: center;
           text-decoration: none;
           text-transform: uppercase;
-          font-size: 13px;
+          font-size: 12px;
           white-space: nowrap;
+
+          &.highlight{
+            color: $primary-darker;
+
+            &:hover{
+              color: $primary;
+            }
+          }
 
           &:not(:first-child){
             margin-left: 21px;

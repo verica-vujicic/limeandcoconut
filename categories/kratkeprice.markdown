@@ -1,6 +1,6 @@
 ---
 layout: categories
 title: Kratke Priče
-category-name: KratkePrice
+category-name: "Kratke Priče"
 permalink: /kratkeprice/
 ---

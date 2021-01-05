@@ -35,7 +35,7 @@ header_pages:
   - categories/tv.markdown
   - categories/health.markdown
   - categories/lifestyle.markdown
-  #- categories/kratkeprice.markdown
+  - categories/kratkeprice.markdown
   - categories/roadtrips.markdown
   - categories/books.markdown
   - categories/recipes.markdown
@@ -51,6 +51,7 @@ header_pages:
 # - Lifestyle
 # - Roadtrips
 # - Recipes
+# - Price
 
 # Build settings
 theme: minima

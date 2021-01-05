@@ -28,21 +28,20 @@ layout: default
         <!-- Regular post layout -->
         <div class="regular-post">
             <div class="thumbnail-wrap">
-            <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
-            <div class="category"> {{ post.categories | join: " " }} </div>
+              <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail">
             </div>
             <div class="details-wrap">
-            <span class="post-meta">By {{ post.author }} • {{ post.date | date: date_format }}</span>
-            <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-                </a>
-            </h3>
-            <span class="post-excerpt">
-                {%- if site.show_excerpts -%}
-                    {{ post.excerpt }}
-                {%- endif -%}
-            </span>
+              <span class="post-meta">By {{ post.author }} • {{ post.date | date: date_format }}</span>
+              <h3>
+                  <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                  </a>
+              </h3>
+              <span class="post-excerpt">
+                  {%- if site.show_excerpts -%}
+                      {{ post.excerpt }}
+                  {%- endif -%}
+              </span>
             </div>
         </div>
       </li>
