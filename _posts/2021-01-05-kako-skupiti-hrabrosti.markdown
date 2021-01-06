@@ -44,7 +44,7 @@ Je l’ reče da hoće il’ neće?
 
 Dok sam shvatila šta se desilo i na šta sam pristala, stomatološki zahvat je već uveliko počeo.
 
-Pa kretosmo sa otiscima. Prvi nekako i prođe, al’ kod drugog se oteglila glina u ustima pa peca po krajnicima i jednjaku, samo što nije ulovila nešto. Ja počeh da balavim k’o da sam sopstvene žlezde pregrizla. Kad vide zubar da se davim, poče da gura ruke u usta, želeći da odstrani viškove gline. “Otvori usta Verice” Uzalud, vilice ni da mrdnu. Kao da ih je grč uhvatio. A on otvori pa otvori. “Otpusti stisak. Verice, grizeš me.” Meni već suze krenule, što od balavljenja i muke, što od smeha jer osetih ukus i miris lateks gume i videh mu ozbiljan izraz na licu. Stvarno mu odgrizoh prst! 
+Pa kretosmo sa otiscima. Prvi nekako i prođe, al’ kod drugog se oteglila glina u ustima pa peca po krajnicima i jednjaku, samo što nije ulovila nešto. Ja počeh da balavim k’o da sam sopstvene žlezde pregrizla. Kad vide zubar da se davim, poče da gura ruke u usta, želeći da odstrani viškove gline. “Otvori usta Verice.” Uzalud, vilice ni da mrdnu. Kao da ih je grč uhvatio. A on otvori pa otvori. “Otpusti stisak. Verice, grizeš me.” Meni već suze krenule, što od balavljenja i muke, što od smeha jer osetih ukus i miris lateks gume i videh mu ozbiljan izraz na licu. Stvarno mu odgrizoh prst! 
 
 Počeh da otvaram usta nekako, on brže izvadi prst, pa onda i kalup sa otiskom. Uze onda da zameni pocepanu rukavicu i da ispere prst na kojem se pojavi kratka crvena linija. 
 
