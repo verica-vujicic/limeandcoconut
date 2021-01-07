@@ -7,9 +7,9 @@ categories: Kratke Priče
 thumbnail: "/assets/images/nijezlato/welcome.jpg"
 hero: 
 hero-credit: 
-excerpt: "Zato što se očekivanja i realnost retko slažu"
+excerpt: "Zato što se očekivanja i realnosti retko slažu"
 ---
-<drop-cap>T</drop-cap>okom osnovne škole najdraže su mi bile ekskurzije. Druženja u autobusu, mešanje smokija sa čokoladnim napolitankama i kupovina suvenira koji ničemu ne služe bili su nezaostavni delovi svakog putovanja. Najdosadniji deo, naravno, bila su predavanja vodiča i učiteljice o lepotama prirode i Srbije.
+<drop-cap>T</drop-cap>okom osnovne škole najdraže su bile ekskurzije. Druženja u autobusu, mešanje smokija sa čokoladnim napolitankama i kupovina suvenira koji ničemu ne služe bili su nezaostavni delovi svakog putovanja. Najdosadniji deo, naravno, bila su predavanja vodiča i učiteljice o lepotama prirode i Srbije.
 
 Gde ono rekoste da idemo?
 
