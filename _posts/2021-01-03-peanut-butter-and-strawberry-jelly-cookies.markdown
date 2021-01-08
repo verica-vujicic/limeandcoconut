@@ -61,7 +61,7 @@ Mix peanut butter, honey, butter, and powdered sugar. Cookies will be better if 
 </step>
 
 <step>
-Now it's time to roll out the dough. Place your dough between two baking sheets with waxed sides touching the dough. If you have the regular baking sheet, just sprinkle it with flour. Place your stretched dough in the fridge for one hour. On halfway through, turn on the oven to 170C. 
+Now it's time to roll out the dough. Place your dough between two baking sheets with waxed sides touching the dough. If you have the regular baking sheet, just sprinkle it with flour. Place your stretched dough in the fridge for one hour. On halfway through, turn on the oven to 170°C. 
 </step>
 
 <step>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Are Birthmarks & How Long Do They Last?"
-date:   2021-01-20 12:26:51 +0100
+date:   2021-01-20 00:26:51 +0100
 author: "Verica Vujicic"
 categories: Health
 thumbnail: "/assets/images/Birthmarks/coveredface.jpg"

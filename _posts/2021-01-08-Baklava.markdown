@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Her Majesty - Baklava"
+date:   2021-01-08 00:26:51 +0100
+author: "Verica Vujicic"
+categories: Recipes
+thumbnail: "/assets/images/chrisgift/baklava.jpeg"
+hero: 
+hero-credit: 
+excerpt: "Simple, vegetarian, and delicious sin no one can resist"
+---
+<drop-cap>B</drop-cap>aklava is a traditional Turkish dessert made of special filo pastry, groundnuts, and syrup. Because of so many nuts variations, there are a lot of baklava recipes. There are classic and chocolate baklava, baklava with hazelnuts, walnuts, almonds, or pistachios. Instead of syrup, baklava can sometimes be soaked with honey. And they are all delicious!
+
+<div class="recipe-dashboard">
+    <div class="dash-card">
+        <div class="dash-icon" title="Preparation time">
+            <img src="/assets/images/icons/clock.svg" alt="Preparation time">
+        </div>
+        <div class="dash-text">60min</div>
+    </div>
+    <div class="dash-card">
+        <div class="dash-icon difficulty" title="Difficulty">
+            <img src="/assets/images/icons/circle-fill.svg" alt="">
+            <img src="/assets/images/icons/circle.svg" alt="">
+            <img src="/assets/images/icons/circle.svg" alt="">
+        </div>
+        <div class="dash-text">Easy</div>
+    </div>
+    <div class="dash-card">
+        <div class="dash-icon" title="Serves">
+            <img src="/assets/images/icons/person.svg" alt="Serves">
+        </div>
+        <div class="dash-text">8 persons</div>
+    </div>
+    <div class="dash-card">
+        <div class="dash-icon" title="Rating">
+            <img src="/assets/images/icons/star.svg" alt="Preparation time">
+        </div>
+        <div class="dash-text">3/5</div>
+    </div>
+</div>
+ 
+<figure>
+    <img src='/assets/images/chrisgift/baklava.jpeg' alt='missing' />
+    <figcaption>Photo by Luka Stanisic / Dev Harbor</figcaption>
+</figure>
+
+### **INGREDIENTS**
+
+- 1 kg filo pastry for baklava
+- 500 g ground walnuts
+- 200 g raisin
+- 200 g margarine
+- 1 kg sugar
+- 1 kg water
+- One lemon
+- Additional tsp sugar
+
+### **DIRECTIONS**
+
+<step>
+Turn on the oven to 200°C. Mix ground walnuts with a raisin and a teaspoon of sugar.
+</step>
+
+<step>
+Place one layer of baklava filo pastry in the pan, sprinkle it with the walnut mixture, and place another layer on the top. Repeat the process until you spend all material. Cut the baklava into rhomboids. 
+</step>
+
+<step>
+Melt the margarine and pour it over the baklava. Put it in the oven and bake it for 20 minutes. 
+</step>
+
+<step>
+In the meantime, wash the lemon and cut it into slices. Stir the sugar and lemon slices into the water and bring it to a boil. Remove it from the stove and let it cool. 
+</step>
+
+<step>
+Take baklava out of the oven. Pour the lemon mixture over baklava, and let baklava cool completely before serving.
+</step>
+
+<figure>
+    <img src='/assets/images/chrisgift/horizontalabaklava.jpeg' alt='missing' />
+    <figcaption>Photo by Luka Stanisic / Dev Harbor</figcaption>
+</figure>
+
+### **TIPS**
+
+> Tip 1: Let the lemon mixture completely cool before pouring it over the baklava.
+
+> Tip 2: Decorate baklava with boiled lemons, ground walnuts, and/or vanilla sticks.
+
+<br/>
+
+Write to Verica Vujicic at [verica.vujicic@yahoo.com](mailto:verica.vujicic@yahoo.com)
