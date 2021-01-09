@@ -38,7 +38,7 @@ Spirals are a good choice for merging months. They make a calendar look more pro
 A [photobook](https://www.google.com/search?q=photo+book+diy&client=safari&rls=en&sxsrf=ALeKk03R-Wyqh1RBuzdwt-3Z_RN9g0OATg:1610107573884&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj88faPpozuAhUZ7eAKHROhBIoQ_AUoAXoECB8QAw&biw=1440&bih=837) is another great idea that you can make in no time. As a holiday season gift, a photobook gives additional meaning to the images, moments you shared, and places you visited. Abstract the most precious and hilarious images of the past year and make a document of it, so you can easily print it out. Use waxed or other specific paper for photobooks. 
 
 <figure>
-    <img src='/assets/images/chrisgift/photobook.JPG' alt='missing' />
+    <img src='/assets/images/chrisgift/photobook.jpg' alt='missing' />
     <figcaption>Photo by Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 
