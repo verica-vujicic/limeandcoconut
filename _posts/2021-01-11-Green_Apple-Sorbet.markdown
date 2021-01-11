@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meet Green Apple Sorbet - Cookies And Vodkas Best Friend"
+title:  "Meet Green Apple Sorbet - Cookies' And Vodka's Best Friend"
 date:   2021-01-11 12:26:51 +0100
 author: "Verica Vujicic"
 categories: Recipes
