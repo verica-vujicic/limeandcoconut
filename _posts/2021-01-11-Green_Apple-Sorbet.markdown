@@ -7,7 +7,7 @@ categories: Recipes
 thumbnail: "/assets/images/Sorbet/vodka.png"
 hero: 
 hero-credit: 
-excerpt: "Three simple ingredients and you got a vegetarian and healthy dessert that goes well with vodka"
+excerpt: "Three simple ingredients and you got a vegetarian and healthy dessert"
 ---
 <drop-cap>S</drop-cap>orbet is a perfect dessert for those who love ice cream but sometimes find it too sweet. It's also a good choice for those who don't tolerate milk very well but don't want to admit it yet. 
 
