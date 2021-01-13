@@ -3,7 +3,7 @@ layout: post
 title:  "Nije zlato sve što sja"
 date:   2021-01-07 12:26:51 +0100
 author: "Verica Vujicic"
-categories: Kratke Priče
+categories: ["Kratke Priče"]
 thumbnail: "/assets/images/nijezlato/welcome.jpg"
 hero: 
 hero-credit: 
