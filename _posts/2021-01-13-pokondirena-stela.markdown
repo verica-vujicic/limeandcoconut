@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pokondirena Stela"
-date:   2021-01-13 00:26:51 +0100
+date:   2021-01-13 07:26:51 +0100
 author: "Verica Vujicic"
 categories: ["Kratke Priče"]
 thumbnail: "/assets/images/stela/cebe.jpeg"
