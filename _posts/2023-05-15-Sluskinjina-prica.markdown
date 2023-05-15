@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sluškinjina priča i Testamenti (SPOILERS FREE)"
+title:  "Sluškinjina priča i Testamenti (SPOILER FREE)"
 date:   2023-05-15 07:26:51 +0100
 author: "Verica Stanisic"
 categories: ["Books"]
@@ -37,11 +37,11 @@ Ovo je jedno od onih dela koja se obrađuju u školama i predmet su diskusije u 
     <figcaption>Photo by Umid Akbarov / Unsplash</figcaption>
 </figure>
 
-Nastavak priče objavljen je u vidu novele "Svedočanstva" (Testaments) 2019. godine. Radnja knjige prati nekoliko žena iz različitih gore-pomenutih socijalnih grupa koje imaju jednu zajedničku stvar, a to je motiv. Etvud je pisala o tome da je jako dugo razmišljala kako bi mogla da dovrši priču svoje sluškinje (očigledno dugo - 34 godine) i zaista, to je postala još jedna sjajna knjiga. Drugu knjigu svakako možete pročitati i da niste čitali prvu, može se čitati sama za sebe, ali s obzirom da je prva za nijansu bolja, u smislu da lika postepeno i detaljno uvodi u ceo državni sistem, možda je ipak bolje početi sa "Sluškinjinom pričom".
+Nastavak priče objavljen je u vidu novele "Svedočanstva" (<em>Testaments</em>) 2019. godine. Radnja knjige prati nekoliko žena iz različitih gore-pomenutih socijalnih grupa koje imaju jednu zajedničku stvar, a to je motiv. Etvud je pisala o tome da je jako dugo razmišljala kako bi mogla da dovrši priču svoje sluškinje (očigledno dugo - 34 godine) i zaista, to je postala još jedna sjajna knjiga. Drugu knjigu svakako možete pročitati i da niste čitali prvu, može se čitati sama za sebe, ali s obzirom da je prva za nijansu bolja, u smislu da lika postepeno i detaljno uvodi u ceo državni sistem, možda je ipak bolje početi sa "Sluškinjinom pričom".
 
-Iako mnogima ne tako drag, prevod na srpski je zaista imao neke zabavne momente. U "Testamentima" se to posebno ogledalo s obzirom na stihove koji su se tu i tamo pojavljivali. Posebno je izražajan utisak koji ostavlja naziv Tetka (jedna socijalna grupacija su Tetke). Ne znam kakav utisak reč -Aunt- ostavlja na kanađane (Etvud je kanađanka), ali Tetka svakako ostavlja jedan specifičan utisak kod nas. To je samo još jedna od mnogih sitnica koje su doprinele sveopštoj genijalnosti zapleta, i čitave situacije u drugoj knjizi. 
+Iako mnogima ne tako drag, prevod na srpski je zaista imao neke zabavne momente. U "Svedočanstvima" se to posebno ogledalo s obzirom na stihove koji su se tu i tamo pojavljivali. Posebno je izražajan utisak koji ostavlja naziv Tetka (jedna socijalna grupacija su Tetke). Ne znam kakav utisak reč -<em>Aunt</em>- ostavlja na kanađane (Etvud je kanađanka), ali Tetka svakako ostavlja jedan specifičan utisak kod nas. To je samo još jedna od mnogih sitnica koje su doprinele sveopštoj genijalnosti zapleta, i čitave situacije u drugoj knjizi. 
 
-Za ljubitelje Margaret Etvud, predložila bih zbirku kratkih priča pod nazivom "Dobre kosti" (Good bones). Priče su pisane "za ozbiljno" kako se to kod nas kaže, ali je svaka priča urnebesna na svoj način, po istini o kojoj govori. Ako vam se životne vrednosti poklope u nekom momentu sa onim što pisac želi da prenese u knjizi, osećaj je zaista sjajan, toliko da će vas zasmejati.
+Za ljubitelje Margaret Etvud, predložila bih zbirku kratkih priča pod nazivom "Dobre kosti" (<em>Good bones</em>). Priče su pisane "za ozbiljno" kako se to kod nas kaže, ali je svaka priča urnebesna na svoj način, po istini o kojoj govori. Ako vam se životne vrednosti poklope u nekom momentu sa onim što pisac želi da prenese u knjizi, osećaj je zaista sjajan, toliko da će vas zasmejati.
 
 Takođe, Etvud ima svoj Master Class koji je dostupan na internetu i koji je zanimljiv sam za sebe, već samo po njenoj priči, dikciji i načinu na koji pristupa pisanju, pa i životu uopšte. 
 
