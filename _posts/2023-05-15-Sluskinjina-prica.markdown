@@ -9,7 +9,7 @@ hero:
 hero-credit: 
 excerpt: "Kako živeti u sistemu koji radi po principu: sistem te tuži, sistem ti sudi"
 ---
-<drop-cap>D</drop-cap>ela velike Margaret Etvud konačno su prevedena na srpski jezik i dostupna u knjižarama širom Srbije. Još veći izbor njenih dela koji je na engleskom jeziku takođe je dostupan u našim knjižarama i sama dela su svakako sigurno bolja na izvornom jeziku. Izdanja su i lepšeg dizajna za strane knjige, ali verovali ili ne, dostupno je i novo izdanje na srpskom koje nije slika iz Netfliksove serije "Sluškinjina priča", i koje je sasvim pristojno, pa čak i umetnički nastrojeno.
+<drop-cap>D</drop-cap>ela velike Margaret Etvud konačno su prevedena na srpski jezik i dostupna u knjižarama širom Srbije. Još veći izbor njenih dela koja su na engleskom jeziku takođe je dostupan u našim knjižarama i sama dela su svakako sigurno bolja na izvornom jeziku. Izdanja su i lepšeg dizajna za strane knjige, ali verovali ili ne, dostupno je i novo izdanje na srpskom koje nije slika iz Netfliksove serije "Sluškinjina priča", i koje je sasvim pristojno, pa čak i umetnički nastrojeno.
 
 "Sluškinjina priča" možda je i najpoznatije delo Margaret Etvud. Radnja prati ženu (sluškinja na tako mnogo načina) koja se našla u novom društvenom uređenju u kojem državom vladaju muškarci dok su žene izdeljene po socijalnim grupama tačno definisane funkcije sa precizno ustanovljenim obavezama. Zvuči li vam poznato?
 
