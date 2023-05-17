@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sluškinjina priča i Testamenti (SPOILER FREE)"
+title:  "Sluškinjina priča i Svedočanstva (SPOILER FREE)"
 date:   2023-05-15 07:26:51 +0100
 author: "Verica Stanisic"
 categories: ["Books"]
@@ -13,7 +13,7 @@ excerpt: "Kako živeti u sistemu koji radi po principu: sistem te tuži, sistem 
 
 "Sluškinjina priča" možda je i najpoznatije delo Margaret Etvud. Radnja prati ženu (sluškinja na tako mnogo načina) koja se našla u novom društvenom uređenju u kojem državom vladaju muškarci dok su žene izdeljene po socijalnim grupama tačno definisane funkcije sa precizno ustanovljenim obavezama. Zvuči li vam poznato?
 
-Uopšteno gledano, u pitanju je distopijska novela koja, po samom žanru, spada u grupu sa Hakslijevim "Vrlim novim svetom" i Orvelovom "1984". Međutim, kako su u oba ova dela glavni likovi muskarci ili se po nekim scenama može reći da se i muškarci i žene podjednako bore protiv "velikog brata", odnosno generalno socijalnog uređenja kakvo je u "Vrlom novom svetu", "Sluškinjina priča" je zaista jedinstvena po načinu na koji je logika jednog distopijskog režima osmišljena i do detalja predstavljena s obzirom na to da je glavni protagonista zapravo žena. Ono što još više zabrinjava je činjenica da je dosta scenarija iz knjige već viđeno i postoji u svetu. Nakon čitanja knjige, čovek ne može da se ne zapita kako li bi bilo da neko sedne i napiše novelu o distopijskom društvu u kojem je cela jedna nacija recimo po ceo dan na telefonima, nekakvim tzv. "društvenim" mrežama i za televizorima, dok im recimo ovi koji ih vode serviraju neke kvazi-istine o svemu što se tiče njihovih života. To najverovatnije ne bi bilo toliko čitano i traženo štivo s obzirom da je to sve novo normalno, samim tim viđeno i nezanimljivo. 
+Uopšteno gledano, u pitanju je distopijska novela koja, po samom žanru, spada u grupu sa Hakslijevim "Vrlim novim svetom" i Orvelovom "1984". Međutim, kako su u oba ova dela glavni likovi muškarci ili se po nekim scenama može reći da se i muškarci i žene podjednako bore protiv "velikog brata", odnosno generalno socijalnog uređenja kakvo je u "Vrlom novom svetu", "Sluškinjina priča" je zaista jedinstvena po načinu na koji je logika jednog distopijskog režima osmišljena i do detalja predstavljena s obzirom na to da je glavni protagonista zapravo žena. Ono što još više zabrinjava je činjenica da je dosta scenarija iz knjige već viđeno i postoji u svetu. Nakon čitanja knjige, čovek ne može da se ne zapita kako li bi bilo da neko sedne i napiše novelu o distopijskom društvu u kojem je cela jedna nacija recimo po ceo dan na telefonima, nekakvim tzv. "društvenim" mrežama i za televizorima, dok im recimo ovi koji ih vode serviraju neke kvazi-istine o svemu što se tiče njihovih života. To najverovatnije ne bi bilo toliko čitano i traženo štivo s obzirom da je to sve novo normalno, samim tim viđeno i nezanimljivo. 
 
 Ni Margaret Etvud zapravo ne ide u dubiozu u poređenju sa sadašnjim statusom žena. Iako prvi utisak na knjigu može biti pravi šok, kako dešavanja u knjizi odmiču, do kraja čitalac već može biti skoro pa naviknut na zadatu situaciju, što je zaista zastrašujuće. 
 
