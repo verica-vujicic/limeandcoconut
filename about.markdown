@@ -7,6 +7,8 @@ hero-credit: "Unsplash"
 permalink: /about/
 ---
 
-Welcome to the ultimate place for fun and relaxation! You will find all sorts of life stories here, both lime-ish and coconut-ish, informative and cultural, enjoyable and tasty. Most importantly, you'll find a tale of ordinary folk. You wouldn't believe how many genius and amazing people you may be surrounded by every day. It's almost not imaginable of all the little things they've done for each other. Or big things, so obvious and yet so unrevealed for the rest of the world. The treasure may lie in something huge as overcoming an illness or something small as understanding the movie or creating a brand new recipe that will warm your heart when you need it. You certainly have numerous incredible and unbelievable life stories yourself! Maybe you've forgotten your coconuts, or don't want to remember where you put those, sore as hell, limes. However, if you have a story to share, L&C would be more than happy to hear it.
+Welcome to the ultimate place for fun and relaxation, a place of all sorts of things like books, movies, drugs, food, drinks, road trips, and lifestyle, stuff you can make yourself. Did I forget to mention a short tale section? Yep, and those are always in Serbian. The idea was to read something funny, cultural, or educational while enjoying morning coffee on Mondays. Some stories are structured, but most of them are not, and most of them have information not solely focused on the subject. I believe the only way to remember something is by reading a story about it and not just bare information. If you have any comments or have an idea what I could write about, please don't be shy, those questions and suggestions are the reason why L&C was created in the first place.
+
+My name is Verica Stanisic, and I'm a creator of the L&C blog. If you like the content, you can [buy me a coffee](https://www.buymeacoffee.com/limeandcoconut)!
 
 Limes and coconuts for everyone!

@@ -17,7 +17,7 @@ Uopšteno gledano, u pitanju je distopijska novela koja, po samom žanru, spada 
 
 Ni Margaret Etvud zapravo ne ide u dubiozu u poređenju sa sadašnjim statusom žena. Iako prvi utisak na knjigu može biti pravi šok, kako dešavanja u knjizi odmiču, do kraja čitalac već može biti skoro pa naviknut na zadatu situaciju, što je zaista zastrašujuće. 
 
-Pomenulo se "položaj žena" i ako ste čuli za Etvud sigurno ste čuli i da je ona feminista ili bolje rečeno feministkinja. Međutim, i ona sama poriče takvu tvrdnju s obzirom da ljudi različito definišu, a drugi onda i različito tumače reč feminizam. Kao što je jednom prilikom izjavila: "if practical, hardline, anti-male feminists took over and became the government, I would resist them". Može se zaključiti da je više orijentisana ka opštoj jednakosti pre nego bilo kakvom polarizovanju između dve strane. Isto tvrdi i za svoje delo Sluškinjina priča, da iako mnogi ocenjuju ovo delo kao feminističko, da je zapravo u pitanju čist socijalni realizam. 
+Pomenulo se "položaj žena" i ako ste čuli za Etvud sigurno ste čuli i da je ona feminista ili bolje rečeno feministkinja. Međutim, i ona sama poriče takvu tvrdnju s obzirom da ljudi različito definišu, a drugi onda i različito tumače reč feminizam. Kao što je jednom prilikom izjavila: "if practical, hardline, anti-male feminists took over and became the government, I would resist them". Može se zaključiti da je više orijentisana ka opštoj jednakosti pre nego bilo kakvom polarizovanju između dve strane. Isto tvrdi i za svoje delo "Sluškinjina priča", da iako mnogi ocenjuju ovo delo kao feminističko, da je zapravo u pitanju čist socijalni realizam. 
 
 <figure>
     <img src='/assets/images/sluskinja/justice.jpg' alt='missing' />
