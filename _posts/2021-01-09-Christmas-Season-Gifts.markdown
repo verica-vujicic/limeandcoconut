@@ -71,7 +71,7 @@ The final product you are looking for is the shape of someone or something made 
 <center>
 <figure>
     <img src='/assets/images/chrisgift/sanja.jpeg' alt='missing' />
-    <figcaption>Source: Caleb Woods / Unsplash</figcaption>
+    <figcaption>Source: Verica Vujicic / Lime & Coconut</figcaption>
 </figure>
 </center>
 
