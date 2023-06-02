@@ -27,7 +27,7 @@ description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://limeandcoconut.site/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: verica-vujicic
-instagram_username: in_vino_vericas
+instagram_username: limeandcoconut_blog
 goodreads_username: verica_vujicic
 
 header_pages:
