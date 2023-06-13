@@ -44,7 +44,7 @@ Anemija može biti nasledna bolest ali i ne mora. Naročito je zastupljena u že
 
 Ova anemija, usled nedostatka gvožđa, poznata je i kao sideropenijska anemija. Kao i sve druge, i ova ima nekoliko stadijuma. Ukoliko se zađe u neki dublji stadijum (jako nisko gvožđe u krvi), simptomi će se proširiti i na druge sisteme. U početku to bude umor, vrtoglavica, tu i tamo lupanje srca, najčešće se primeti belina kože, belina sluzokože očiju, usta, hladne šake i stopala, a kasnije se mogu javiti i otežano disanje uz bolove u plućima (uz naglasak na različitost među ljudima a samim tim su različiti i ovi nespecifični simptomi među anemičnima).
 
-Sideropenijska anemija progredira postepeno i to u skladu sa nalazima krvi. Drugim rečima, koliko ste anemični toliko će rezultati biti loši. S obzirom da postepeno progredira, i pritom ti početni simptomi budu nespecifični (umor, malaksalost), obično bude teško na početku primetiti da nešto nije u redu s telom, tako da, ako ne uhvatite na sistematskom, obično uhvatite tek kad ste toliko umorni i bledi da se konačno odlučite na proveru zdravlja.
+Sideropenijska anemija progredira postepeno i to u skladu sa nalazima krvi. Drugim rečima, koliko ste anemični toliko će rezultati biti loši. S obzirom da postepeno progredira, i pritom ti početni simptomi budu nespecifični (umor, malaksalost), obično bude teško na početku primetiti da nešto nije u redu s telom, tako da, ako ne uhvatite na godišnjem sistematskom pregledu, obično uhvatite tek kad ste toliko umorni i bledi da ste se konačno odlučili na proveru zdravlja.
 
 <figure>
     <img src='/assets/images/iron/elly-brian-At_XGKqg9Sk-unsplash.jpg' alt='missing' />
