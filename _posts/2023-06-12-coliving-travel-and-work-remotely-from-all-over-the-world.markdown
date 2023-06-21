@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coliving - travel and work remotely from all over the world, including the Portuguese capital - Lisbon"
-date:   2023-06-20 7:17:51 +0100
+date:   2023-06-21 7:17:51 +0100
 author: "Verica Stanisic"
 categories: ["Lifestyle"]
 thumbnail: "/assets/images/coliving/elevate-nYgy58eb9aw-unsplash.jpg"
