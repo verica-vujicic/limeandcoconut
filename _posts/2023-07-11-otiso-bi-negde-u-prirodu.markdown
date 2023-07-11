@@ -27,7 +27,7 @@ Kovilj se nalazi na oko 76 km od Beograda, što dođe nekih otprilike 50 minuta 
     <figcaption>Photo by Verica Stanišić / Lime and Coconut</figcaption>
 </figure>
 
-U potrazi za idealnim mestom, prošli smo pored manastira Kovilj, prošetali rečnom obalom, zasladili se divljim crnim dudinjama, a zatim kolima obišli ceo krug po nasipu i usput naišli na nekoliko skrovitih plaža, na rečne kućice i vikendice. Pored zabačenih i skrovitih mesta, uz Dunav se mogu naći i plaže, drvene pečurke za roštiljanje, idealne tačke za pecanje. Mesto koje se nama najviše dopalo za piknik bilo je puno divlje nane koju smo iskoristili za pravljenje branča - pljeske od tikvica, grilovani sir, salate i voćkice. O uživanju uz reku i hladno piće nakon toga nema potrebe govoriti. Vidi se, i po nedostatku kvalitetnih fotki, a i po tome što je jedna avanturistička i neretko nenormalna i hiperaktivna grupa ljudi uspela da se iskulira i prepusti hladovini, da je ovo pravo mesto za odmor, pauzu od obaveza i bezbrižno kuliranje uz reku, jer ovaj deo Dunava, verovali ili ne, zapravo miriše.
+U potrazi za idealnim mestom, prošli smo pored manastira Kovilj, prošetali rečnom obalom, zasladili se divljim crnim dudinjama, a zatim kolima obišli ceo krug po nasipu i usput naišli na nekoliko skrovitih plaža, na rečne kućice i vikendice. Pored zabačenih i skrovitih mesta, uz Dunav se mogu naći i peščane plaže, drvene pečurke za roštiljanje, idealne tačke za pecanje. Mesto koje se nama najviše dopalo za piknik bilo je puno divlje nane koju smo iskoristili za pravljenje branča - pljeske od tikvica, grilovani sir, salate i voćkice. O uživanju uz reku i hladno piće nakon toga nema potrebe govoriti. Vidi se, i po nedostatku kvalitetnih fotki, a i po tome što je jedna avanturistička i neretko nenormalna i hiperaktivna grupa ljudi uspela da se iskulira i prepusti hladovini, da je ovo pravo mesto za odmor, pauzu od obaveza i bezbrižno kuliranje uz reku, jer ovaj deo Dunava, verovali ili ne, zapravo miriše.
 
 <figure>
     <img src='/assets/images/otiso_bi/kovilj.png' alt='missing' />
@@ -36,7 +36,7 @@ U potrazi za idealnim mestom, prošli smo pored manastira Kovilj, prošetali re�
 
 A kada se ponovo ogladnelo, posetili smo obližnji restoran "Na kraj sveta" (Google ocena 4.3) koji u ponudi, između ostalog, ima i ribu i fina lokalna vina, konobari su ljubazni a rečni ambijent koji je ujedno i terasa restorana ostavlja bez daha. 
 
-Dva saveta samo ako idete tamo:
+Dve napomene samo ako idete tamo:
 1. Komarčine ne reaguju na klasičan beli Autan.
 2. Restoran radi do 8.
 
