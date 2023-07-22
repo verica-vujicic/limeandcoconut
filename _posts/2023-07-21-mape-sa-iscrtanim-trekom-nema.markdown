@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mape sa iscrtanim trekom nema, jer ovo nije lagan trek"
+title:  "Mape s trekom nema, jer ovo nije lagan trek"
 date:   2023-07-21 7:17:51 +0100
 author: "Verica Stanisic"
 categories: ["Roadtrips"]
@@ -36,7 +36,7 @@ Ima nečeg, mnogim ljudima, neodoljivog u Šumadiji što umiri, neki pejzaž št
 
 <br>
  
-I ko ju je probao, razumeće.
+Ko ju je probao, razumeće.
 
 <br>
 
