@@ -18,7 +18,7 @@ Da, to je najjednostavnije rečeno.
     <figcaption>Photo by Verica Stanišić / Lime & Coconut</figcaption>
 </figure>
 
-Elem, prvi dan letnje škole bio je vreo, a Beograd pun turista. Za socijalni događaj tog dana, organizovana je poseta muzeju Nikole Tesle. Poseta je počela kratkim filmom o Tesli, a zatim se pristupilo demonstraciji rada Teslinih mašina, što nije trajalo dugo, a i objašnjenja su bila štura za intelektualno prosečnog odraslog čoveka. Manje-više sve se svelo na pipanje štapnih lampi koje zasvetle, kuglica koje puštaju slabašan snop elektriciteta i cevkama u boji posvećenih pesnicima (to je zapravo predobar detalj). Iz tog razloga, u daljem tekstu ni neće biti nekih spoilera vezanih za Teslin život i njegove izume, kako rade i tako to, dakle možete posetiti muzej i nakon ove priče i saznati puno toga novog (a taman biste mi, kasnije, mogli i ispričati).
+Elem, prvi dan letnje škole bio je vreo, a Beograd pun turista. Za socijalni događaj tog dana, organizovana je poseta muzeju Nikole Tesle. Poseta je počela kratkim filmom o Tesli, a zatim se pristupilo demonstraciji rada Teslinih mašina, što nije trajalo dugo, a i objašnjenja su bila štura za intelektualno prosečnog odraslog čoveka. Manje-više sve se svelo na pipanje štapnih lampi koje zasvetle, kuglica koje puštaju slabašan snop elektriciteta i cevkama u boji posvećenih pesnicima (ovo sa cevkama je, u stvari, mnogo zanimljiva priča). Iz tog razloga, u daljem tekstu ni neće biti nekih spoilera vezanih za Teslin život i njegove izume, kako rade i tako to, dakle možete posetiti muzej i nakon ove priče i saznati puno toga novog (a taman biste mi, kasnije, mogli i ispričati).
 
 <figure>
     <img src='/assets/images/tesla/IMG_8668.jpg' alt='missing' />
@@ -29,7 +29,7 @@ Tesla, rođen u selu Smiljanu kod Like, potiče iz bistre i vredne porodice. Nak
 
 E, tu smo! 
 
-Kad se stiglo do tog poslednjeg, Morgan zabezeknut time kuda su Tesline misli krenule, obustavio je dalje finansiranje, a ubrzo i prekinuo poslovni odnos s Teslom i srušio Teslinu kulu koju je ovaj napravio kao eksperimentalni prototip stanice za transmisiju električne energije bez kabla. Bilo je tu još par interesantnih momenata, kao recimo ono kad se zapalila zgrada, baš ona u kojoj je bila Teslina laboratorija sa svom dokumentacijom i projektima na kojima je radio, ili ono kad je Teslu udario auto u njegovoj 81. godini, a sve u spontanom duhu neverovatnih koincidencija tokom Teslinih, ne tako skrivenih, aktuelnih naučnih afiniteta i tendencija.
+Kad se stiglo do tog poslednjeg, Morgan zabezeknut time kuda su Tesline misli krenule, obustavio je dalje finansiranje, a ubrzo i prekinuo poslovni odnos s Teslom i srušio Teslinu kulu koju je ovaj napravio kao eksperimentalni prototip stanice za transmisiju električne energije. Bilo je tu još par interesantnih momenata, kao recimo ono kad se zapalila zgrada, baš ona u kojoj je bila Teslina laboratorija sa svom dokumentacijom i projektima na kojima je radio, ili ono kad je Teslu udario auto u njegovoj 81. godini, a sve u spontanom duhu neverovatnih koincidencija tokom Teslinih, ne tako skrivenih, aktuelnih naučnih afiniteta i tendencija.
 
 <figure>
     <img src='/assets/images/tesla/IMG_8671.jpg' alt='missing' />
@@ -41,7 +41,7 @@ Posebno je interesantna priča o susretu naučnika i pesnika. U par navrata, uve
 <figure>
     <img src='/assets/images/tesla/pesma.png' alt='missing' />
 </figure>
-
+<br>
 <figure>
     <img src='/assets/images/tesla/IMG_8678.jpg' alt='missing' />
     <figcaption>Posveta pesniku.</figcaption>
@@ -49,7 +49,7 @@ Posebno je interesantna priča o susretu naučnika i pesnika. U par navrata, uve
 
 <br>
 
-Uzimajući u obzir sve rečeno, par saveta ako biste svakako posetili muzej:
+Uzimajući u obzir sve rečeno, par saveta ako biste svakako da posetite muzej:
 
 1. Ne idite u vreme turističke sezone.
 2. Ne idite bez svoje (ili nečije) dece, počastite ih ovim druženjem, oduševiće se svetlima.
